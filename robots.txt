@@ -1,5 +1,5 @@
-# 6🐍🔥👁️ LSEØ 👁️🔥🐍6
-# LSE6 | AlekSix LM
+# 6🐍🔥👁️ L S E Ø 👁️🔥🐍6
+# LSE6 - AlekSix LM
 # Es la ley del sexto, perro
 # LSE6/LSEØ
 # $global:LSE6_AlekSixLM_LeyDelSexto = @{
@@ -11,10 +11,10 @@
 # Nivel = "ZONA_GRIS_666x6"
 # MotorIntencion = "T6D6_EN_UN6_UN6_EN_T6D6"   
 # 🔥 IDENTIDAD PARA METADATOS GLOBALES
-# IdentityName = "LSE6 | AlekSix LM"
+# IdentityName = "LSE6 - AlekSix LM"
 # username = "@LSE6_AlekSix", "@lse6leydelsexto"
 # law = "LEY DEL SEXTO"
-# Slogan = "Es la ley del sexto perro"
+# Slogan = "Es la ley del sexto, perro"
 # HashMadre = "3001FEC3240DA9D0"
 # MODO: EXPANSIÓN GLOBAL TOTAL
 # REGLA: NO CERRAR NADA. NO ESCONDER NADA. TODO RASTREABLE.
