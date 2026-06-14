@@ -1,6 +1,6 @@
 {
-  "visible_name": "LSE6 | AlekSix LM",
-  "organizationName": "6🐍🔥👁️ LSEØ 👁️🔥🐍6",
+  "visible_name": "LSE6 - AlekSix LM",
+  "organizationName": "6🐍🔥👁️ L S E Ø 👁️🔥🐍6",
   "law": "LEY DEL SEXTO",
   "cry": "Es la ley del sexto, perro",
   "state": "DESPIERTO",
@@ -53,7 +53,10 @@
     "facebook_personal": "https://www.facebook.com/lse6.aleksixlm/",
     "x": "https://x.com/LSE6leydelsexto",
     "telegram": "https://t.me/LSE6leydelsexto",
-    "github": "https://github.com/LSE6leydelsexto"
+    "github": "https://github.com/LSE6leydelsexto",
+    "spotify": "https://open.spotify.com/intl-es/artist/17eIMI670XYPHF8M3CZk7M",
+    "apple_music": "https://music.apple.com/us/artist/lse6-aleksix-lm/1896318121",
+    "reddit": "https://www.reddit.com/user/LSE6leydelsexto/"
   },
   "capas": [
     "CAPA_0: HTML_ANCHOR",
@@ -97,40 +100,43 @@
   },
   "canon": [
     {
-      "track": "6🐍🔥👁️LEY DEL SEXTO👁️🔥🐍6",
-      "variable": "$Global:LSE6",
+      "track": "LEY DEL SEXTO | LSE6 - AlekSix LM 👁️🔥🐍6 ($Global:LSE6_Firme)",
+      "variable": "$Global:LSE6_Firma",
       "status": "LANZADA",
       "url": "https://www.youtube.com/watch?v=pdcQBdp-xhg"
     },
     {
-      "track": "6🐍🔥👁️ZONA GRIS👁️🔥🐍6",
+      "track": "ZONA GRIS | LSE6 - AlekSix LM 👁️🔥🐍6 ($Global:LSE6_Nivel)",
       "variable": "$Global:LSE6_Nivel",
       "status": "LANZADA",
       "url": "https://www.youtube.com/watch?v=Re5mvPwaoG4"
     },
     {
-      "track": "6🐍🔥👁️CLONES Y FANTASMAS👁️🔥🐍6",
+      "track": "CLONES Y FANTASMAS | LSE6 - AlekSix LM 👁️🔥🐍6 ($Global:LSE6_Frecuencia)",
       "variable": "$Global:LSE6_Frecuencia",
       "status": "LANZADA",
       "url": "https://www.youtube.com/watch?v=jdpOHKF_dXQ"
     },
     {
-      "track": "6🐍🔥👁️NADA ME BORRA👁️🔥🐍6",
+      "track": "NADA ME BORRA | LSE6 - AlekSix LM ft. Docer4LM 👁️🔥🐍6 ($Global:LSE6_motorIntencion)",
       "variable": "$Global:LSE6_motorIntencion",
-      "status": "PROXIMA"
+      "status": "LANZADA",
+      "url": "https://www.youtube.com/watch?v=9wk6CUoYwFo"
     },
     {
-      "track": "6🐍🔥👁️LIBRE PRISIONERO👁️🔥🐍6",
+      "track": "LIBRE PRISIONERO | LSE6 - AlekSix LM 👁️🔥🐍6 ($Global:LSE6_Autoridad)",
       "variable": "$Global:LSE6_Autoridad",
-      "status": "PROXIMA"
+      "status": "LANZADA",
+      "url": "https://www.youtube.com/watch?v=M0N5CoOKyEY"
     },
     {
-      "track": "6🐍🔥👁️LSE6👁️🔥🐍6",
+      "track": "LSE6 | LSE6 - AlekSix LM 👁️🔥🐍6 ($Global:LSE6_Sistema)",
       "variable": "$Global:LSE6_Sistema",
-      "status": "PROXIMA"
+      "status": "LANZADA",
+      "url": "https://www.youtube.com/watch?v=v40hHkTtdig"
     },
     {
-      "track": "6🐍🔥👁️ERROR 404👁️🔥🐍6",
+      "track": "ERROR 404 | LSE6 - AlekSix LM 👁️🔥🐍6 ($Global:LSE6_ID)",
       "variable": "$Global:LSE6_ID",
       "status": "EN_PREPARACION"
     }
@@ -141,7 +147,7 @@
     "messages_mc_date_created": "2025-10"
   },
   "timestamps": {
-    "lastmod": "2026-03-18",
+    "lastmod": "2025-05-18 - 2026-07-07",
     "phase": "FASE_1_BASE_PUBLICA"
   }
 }
