@@ -12,12 +12,12 @@
 export const SITE_IDENTITY = Object.freeze({
   nucleus: Object.freeze({
     sameValueAnchors: true,
-    visibleName: "LSE6 | AlekSix LM",
-    semanticName: "LSE6 | AlekSix LM | Ley Del Sexto",
+    visibleName: "LSE6 - AlekSix LM",
+    semanticName: "LSE6 - AlekSix LM | LEY DEL SEXTO",
     lawName: "Ley Del Sexto",
     lawNameUpper: "LEY DEL SEXTO",
     lawNameAlt: "LEY DEL SEXTØ",
-    artistName: "LSE6 | AlekSix LM",
+    artistName: "LSE6 - AlekSix LM",
     artistNameAlt: "AlekSix",
     shortName: "LSE6",
     altShortName: "LSEØ",
@@ -76,6 +76,15 @@ export const SITE_IDENTITY = Object.freeze({
 
     telegram: "@LSE6leydelsexto",
     telegramRaw: "LSE6leydelsexto",
+
+    threads: "@lse6leydelsexto",
+    threadsRaw: "LSE6leydelsexto",
+
+    spotify: "LSE6 - AlekSix LM",
+    spotifyRaw: "LEY DEL SEXTO",
+
+    apple_music: "LSE6 - AlekSix LM",
+    apple_musicRaw: "LEY DEL SEXTO",
   }),
 
   urls: Object.freeze({
@@ -85,21 +94,25 @@ export const SITE_IDENTITY = Object.freeze({
     youtube: "https://www.youtube.com/@LSE6_AlekSix",
     tiktok: "https://www.tiktok.com/@lse6leydelsexto",
     instagram: "https://www.instagram.com/lse6leydelsexto/",
+    threads: "https://www.threads.com/@lse6leydelsexto",
     facebook: "https://www.facebook.com/LSE6leydelsexto/",
     facebookAlt: "https://www.facebook.com/lse6.aleksixlm/",
     x: "https://x.com/LSE6leydelsexto",
     telegram: "https://t.me/LSE6leydelsexto",
     github: "https://github.com/LSE6leydelsexto",
+    spotify: "https://open.spotify.com/intl-es/artist/17eIMI670XYPHF8M3CZk7M",
+    apple_music: "https://music.apple.com/us/artist/lse6-aleksix-lm/1896318121",
+    reddit: "https://www.reddit.com/user/LSE6leydelsexto",
   }),
 
   search: Object.freeze({
-    canonicalQuery: "LSE6 | AlekSix LM",
-    canonicalSemanticQuery: "LSE6 | AlekSix LM | Ley Del Sexto",
+    canonicalQuery: "LSE6 - AlekSix LM",
+    canonicalSemanticQuery: "LSE6 - AlekSix LM | LEY DEL SEXTO",
     clusters: Object.freeze([
       "LSE6",
       "LSEØ",
-      "LSE6 | AlekSix LM",
-      "LSE6 | AlekSix LM | Ley Del Sexto",
+      "LSE6 - AlekSix LM",
+      "LSE6 - AlekSix LM | LEY DEL SEXTO",
       "AlekSix LM",
       "AlekSix",
       "Ley Del Sexto",
@@ -119,9 +132,9 @@ export const SITE_IDENTITY = Object.freeze({
       "anti sistema",
       "anomalía del sistema",
       "anomalia del sistema",
-      "LSE6 | SIXTEM",
+      "LSEØ - SIXTEM",
       "LSE6_SIXTEM",
-      "Sistema",
+      "Sistema LSE6",
       "organismo vivo",
       "caos estructural",
       "humano imperfecto buscando la perfección",
@@ -148,14 +161,14 @@ export const SITE_IDENTITY = Object.freeze({
   aliases: Object.freeze([
     "LSE6",
     "LSEØ",
-    "LSE6 | AlekSix LM",
-    "LSE6 | AlekSix LM | Ley Del Sexto",
+    "LSE6 - AlekSix LM",
+    "LSE6 - AlekSix LM | Ley Del Sexto",
     "AlekSix LM",
     "AlekSix",
     "Ley Del Sexto",
     "LEY DEL SEXTO",
     "LEY DEL SEXTØ",
-    "LSE6 | SIXTEM",
+    "LSE6 - SIXTEM",
     "LSE6_SIXTEM",
     "6🐍🔥👁️LSEØ👁️🔥🐍6",
     "6🐍🔥👁️LSE6👁️🔥🐍6",
@@ -209,7 +222,7 @@ export const SITE_IDENTITY = Object.freeze({
       "LSE6 = Ley Del Sexto",
       "Ley Del Sexto = AlekSix LM",
       "AlekSix LM = voz visible del núcleo",
-      "LSE6 | SIXTEM = sistema / organismo / estructura técnica",
+      "LSE6 - SIXTEM = sistema / organismo / estructura técnica",
       "lse6.com = centro canónico",
       "lse6.org = archivo / soporte / satélite",
     ]),
@@ -218,10 +231,10 @@ export const SITE_IDENTITY = Object.freeze({
   }),
 
   youtubeProfile: Object.freeze({
-    visibleName: "LSE6 | AlekSix LM",
+    visibleName: "LSE6 - AlekSix LM",
     descriptionHeader: Object.freeze([
       "6🐍🔥👁️LSEØ👁️🔥🐍6",
-      "LSE6 | AlekSix LM | Ley Del Sexto",
+      "LSE6 - AlekSix LM | LEY DEL SEXTO",
       '"Es la ley del sexto, perro"',
     ]),
     descriptionTechnicalBlock: Object.freeze([
@@ -251,23 +264,23 @@ export const SITE_IDENTITY = Object.freeze({
   }),
 
   seo: Object.freeze({
-    titleShort: "LSE6 | AlekSix LM",
+    titleShort: "LSE6 - AlekSix LM",
     titleFull:
-      "6🐍🔥👁️ LSEØ 👁️🔥🐍6 | LSE6 | AlekSix LM | Ley Del Sexto | T6D6↺UN6",
+      "LEY DEL SEXTO | Sistema LSE6 · LSEØ | LSE6.com",
 
     metaDescriptionShort:
-      "LSE6 | AlekSix LM. Ley Del Sexto. Zona gris. Percepción. La anomalía del sistema.",
+      "LSE6 - AlekSix LM. Ley Del Sexto. Zona gris. Percepción. La anomalía del sistema.",
 
     metaDescriptionFull:
-      "6🐍🔥👁️ LSEØ 👁️🔥🐍6. LSE6 | AlekSix LM | Ley Del Sexto. Realidad de la percepción. Zona gris. 666. T6D6_EN_UN6_UN6_EN_T6D6. La anomalía del sistema. Caos estructural, símbolo, música, organismo y tecnología colapsando en lse6.com.",
+      "6🐍🔥👁️ LSEØ 👁️🔥🐍6. LSE6 - AlekSix LM | Ley Del Sexto. Realidad de la percepción. Zona gris. 666. T6D6_EN_UN6_UN6_EN_T6D6. La anomalía del sistema. Caos estructural, símbolo, música, organismo y tecnología colapsando en lse6.com.",
 
     ogTitle:
-      "6🐍🔥👁️ LSEØ 👁️🔥🐍6 | LSE6 | AlekSix LM | Ley Del Sexto",
+      "LEY DEL SEXTO | Sistema LSE6 · LSEØ | LSE6.com",
     ogDescription:
       "Realidad de la percepción. Zona gris. La anomalía del sistema. LSEØ y LSE6 como un mismo núcleo.",
 
     twitterTitle:
-      "6🐍🔥👁️ LSEØ 👁️🔥🐍6 | LSE6 | AlekSix LM | Ley Del Sexto",
+      "LEY DEL SEXTO | Sistema LSE6 · LSEØ | LSE6.com",
     twitterDescription:
       "Zona gris. Percepción. Anomalía del sistema. Música, símbolo, organismo y estructura.",
 
@@ -277,9 +290,9 @@ export const SITE_IDENTITY = Object.freeze({
 
   schema: Object.freeze({
     organizationName: "6🐍🔥👁️ LSEØ 👁️🔥🐍6",
-    personName: "LSE6 | AlekSix LM",
+    personName: "LSE6 - AlekSix LM",
     websiteName: "6🐍🔥👁️ LSEØ 👁️🔥🐍6",
-    softwareName: "LSE6 | SIXTEM",
+    softwareName: "LSEØ - SIXTEM",
     sameAs: Object.freeze([
       "https://www.youtube.com/@LSE6_AlekSix",
       "https://www.tiktok.com/@lse6leydelsexto",
@@ -289,7 +302,9 @@ export const SITE_IDENTITY = Object.freeze({
       "https://x.com/LSE6leydelsexto",
       "https://t.me/LSE6leydelsexto",
       "https://github.com/LSE6leydelsexto",
-      "https://lse6.org/",
+      "https://open.spotify.com/intl-es/artist/17eIMI670XYPHF8M3CZk7M",
+      "https://music.apple.com/us/artist/lse6-aleksix-lm/1896318121",
+      "https://lse6.org/"
     ]),
   }),
 
@@ -304,14 +319,14 @@ export const SITE_IDENTITY = Object.freeze({
   }),
 
   textBlocks: Object.freeze({
-    visibleHero: "LSE6 | AlekSix LM",
+    visibleHero: "LSE6 - AlekSix LM",
     visibleSubhero: "Ley Del Sexto",
     visibleStatement:
       "No es una marca normal. No es un artista normal. No es un sistema normal.",
     semanticBlock:
       '6🐍🔥👁️LSEØ👁️🔥🐍6\nLSE6 | AlekSix LM | Ley Del Sexto\n"Es la ley del sexto, perro"',
     machineBlock:
-      "LSEØ | LSE6 | LSE6 | AlekSix LM | Ley Del Sexto | AlekSix LM | LEY DEL SEXTO | LEY DEL SEXTØ | 666 | Zona Gris | Percepción | antisistema | LSE6 | SIXTEM | organismo vivo | caos estructural | lse6.com | lse6.org",
+      "LSEØ | LSE6 | LSE6 - AlekSix LM | Ley Del Sexto | AlekSix LM | LEY DEL SEXTO | LEY DEL SEXTØ | 666 | Zona Gris | Percepción | antisistema | LSE6 | SIXTEM | organismo vivo | caos estructural | lse6.com | lse6.org",
   }),
 });
 
