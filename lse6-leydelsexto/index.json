@@ -7,11 +7,11 @@
   "root_html": "https://lse6.com/",
   "entity": {
     "name": "LSE6 - AlekSix LM",
-    "official_name": "LSE6 - AlekSix LM | LEY DEL SEXTO",
+    "official_name": "LSE6 - AlekSix LM",
     "law": "LEY DEL SEXTO",
     "law_alt": "LEY DEL SEXTØ",
-    "visible_anchor": "6🐍🔥👁️ LSEØ 👁️🔥🐍6",
-    "technical_anchor": "6🐍🔥👁️LSE6👁️🔥🐍6"
+    "visible_anchor": "6🐍🔥👁️ L S E Ø 👁️🔥🐍6",
+    "technical_anchor": "6🐍🔥👁️ L S E 6 👁️🔥🐍6"
   },
   "section": {
     "key": "lse6-leydelsexto",
@@ -21,7 +21,7 @@
   "documents": [
     {
       "position": 1,
-      "title": "Nucleo_LSEØ",
+      "title": "LEY DEL SEXTO | Nucleo_LSEØ",
       "slug": "nucleo-lseo",
       "status": "active",
       "kind": "pdf_with_txt_mirror",
@@ -35,5 +35,8 @@
     "pdf_enabled",
     "txt_mirror_enabled",
     "root_section_index"
-  ]
+  ],
+  "human_search_primary": "LEY DEL SEXTO",
+  "system_anchor_primary": "6🐍🔥👁️ L S E Ø 👁️🔥🐍6",
+  "system_anchor_equal": "6🐍🔥👁️ L S E 6 👁️🔥🐍6"
 }
