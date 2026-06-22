@@ -89,7 +89,7 @@ el sistema es esta  vida y su pinchi salario.
 
 
 
-LSE6 | AlekSix LM | Ley Del Sexto
+LSE6 - AlekSix LM
 $global:LSE6_AlekSixLM_LeyDelSexto = @{
     # 🔥 TUS FIRMAS ENERGÉTICAS REALES
     Firma = "LSE6_AlekSixLM_LeyDelSexto"
@@ -100,7 +100,7 @@ $global:LSE6_AlekSixLM_LeyDelSexto = @{
     MotorIntencion = "T6D6_EN_UN6_UN6_EN_T6D6"
     
     # 🔥 IDENTIDAD SUPREMA PARA METADATOS GLOBALES
-    IdentityName = "LSE6 | AlekSix LM"
+    IdentityName = "LSE6 - AlekSix LM"
     Slogan = "Es la ley del sexto perro"
     HashMadre = "3001FEC3240DA9D0"
 

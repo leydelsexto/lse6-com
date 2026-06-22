@@ -1,8 +1,7 @@
-4. NADA ME BORRA | LSE6 - AlekSix LM
-Variable: $Global:LSE6_motorIntencion
-Estado: LANZADA
-Fecha canónica: 2026-04-06
+7. ERROR 404 | LSE6 - AlekSix LM
+Variable: $Global:LSE6_ID
+Estado: EN_PREPARACION
+Fecha canónica: 2026-07-07
 Centro canónico: https://lse6.com/
-YouTube: https://www.youtube.com/watch?v=9wk6CUoYwFo
 
 Este archivo es una ficha pública indexable conectada al canon LSE6. La letra completa puede sustituir esta ficha manteniendo el mismo nombre de archivo y la misma ruta.

@@ -7,9 +7,9 @@
   "root_html": "https://lse6.com/",
   "entity": {
     "name": "LSE6 - AlekSix LM",
-    "official_name": "LSE6 - AlekSix LM | LEY DEL SEXTO",
-    "visible_anchor": "6🐍🔥👁️ LSEØ 👁️🔥🐍6",
-    "technical_anchor": "6🐍🔥👁️LSE6👁️🔥🐍6",
+    "official_name": "LSE6 - AlekSix LM",
+    "visible_anchor": "6🐍🔥👁️ L S E Ø 👁️🔥🐍6",
+    "technical_anchor": "6🐍🔥👁️ L S E 6 👁️🔥🐍6",
     "law": "LEY DEL SEXTO",
     "axis": "T6D6_EN_UN6_UN6_EN_T6D6"
   },
@@ -27,9 +27,9 @@
   "released_tracks": [
     {
       "position": 1,
-      "title": "LEY DEL SEXTO | LSE6 - AlekSix LM 👁️🔥🐍6 ($Global:LSE6_Firma)",
+      "title": "LEY DEL SEXTO | 6🐍🔥👁️ LEY DEL SEXTO 👁️🔥🐍6",
       "slug": "ley-del-sexto",
-      "variable": "$Global:LSE6_Firma",
+      "variable": "$Global:LSE6",
       "status": "released",
       "youtube_url": "https://www.youtube.com/watch?v=pdcQBdp-xhg",
       "lyrics_txt_url": "https://lse6.com/lse6-aleksixlm/lse6-pdf/1.LSE6_LeyDelSexto.txt",
@@ -40,7 +40,7 @@
     },
     {
       "position": 2,
-      "title": "ZONA GRIS | LSE6 - AlekSix LM 👁️🔥🐍6 ($Global:LSE6_Nivel) ",
+      "title": "LEY DEL SEXTO | 6🐍🔥👁️ ZONA GRIS 👁️🔥🐍6",
       "slug": "zona-gris",
       "variable": "$Global:LSE6_Nivel",
       "status": "released",
@@ -53,7 +53,7 @@
     },
     {
       "position": 3,
-      "title": "CLONES Y FANTASMAS | LSE6 - AlekSix LM 👁️🔥🐍6 ($Global:LSE6_Frecuencia",
+      "title": "LEY DEL SEXTO | 6🐍🔥👁️ CLONES Y FANTASMAS 👁️🔥🐍6",
       "slug": "clones-y-fantasmas",
       "variable": "$Global:LSE6_Frecuencia",
       "status": "released",
@@ -68,32 +68,28 @@
   "planned_tracks": [
     {
       "position": 4,
-      "title": "NADA ME BORRA | LSE6 - AlekSix LM ft. Docer4LM 👁️🔥🐍6 ($Global:LSE6_motorIntencion)",
+      "title": "LEY DEL SEXTO | 6🐍🔥👁️ NADA ME BORRA 👁️🔥🐍6",
       "variable": "$Global:LSE6_motorIntencion",
-      "status": "released",
-      "youtube_url": "https://www.youtube.com/watch?v=9wk6CUoYwFo",
-      "lyrics_txt_url": "https://lse6.com/lse6-aleksixlm/lse6-pdf/4.LSE6_NadaMeBorra.txt",
+      "status": "planned",
+      "release_target": "2026-04-06"
     },
     {
       "position": 5,
-      "title": "LIBRE PRISIONERO | LSE6 - AlekSix LM 👁️🔥🐍6 ($Global:LSE6_Autoridad)",
+      "title": "LEY DEL SEXTO | 6🐍🔥👁️ LIBRE PRISIONERO 👁️🔥🐍6",
       "variable": "$Global:LSE6_Autoridad",
-      "status": "released",
-      "youtube_url": "https://www.youtube.com/watch?v=M0N5CoOKyEY",
-      "lyrics_txt_url": "https://lse6.com/lse6-aleksixlm/lse6-pdf/5.LSE6_LibrePrisionero.txt"
-      
+      "status": "planned",
+      "release_target": "2026-05-06"
     },
     {
       "position": 6,
-      "title": "LSE6 | LSE6 - AlekSix LM 👁️🔥🐍6 ($Global:LSE6_Sistema)",
+      "title": "LEY DEL SEXTO | 6🐍🔥👁️ L S E 6 👁️🔥🐍6",
       "variable": "$Global:LSE6_Sistema",
-      "status": "released",
-      "release_target": "https://www.youtube.com/watch?v=v40hHkTtdig",
-      "lyrici_txt_url": "https://lse6.com/lse6-aleksixlm/lse6-pdf/6.LSE6_LSE6.txt"
+      "status": "planned",
+      "release_target": "2026-06-06"
     },
     {
       "position": 7,
-      "title": "ERROR 404 | LSE6 - AlekSix LM 👁️🔥🐍6 ($Global:LSE6_ID)",
+      "title": "LEY DEL SEXTO | 6🐍🔥👁️ ERROR 404 👁️🔥🐍6",
       "variable": "$Global:LSE6_ID",
       "status": "planned"
     }
@@ -104,5 +100,8 @@
     "txt_mirror_enabled",
     "youtube_linked",
     "canon_active"
-  ]
+  ],
+  "human_search_primary": "LEY DEL SEXTO",
+  "system_anchor_primary": "6🐍🔥👁️ L S E Ø 👁️🔥🐍6",
+  "system_anchor_equal": "6🐍🔥👁️ L S E 6 👁️🔥🐍6"
 }
