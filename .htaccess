@@ -1,0 +1,6 @@
+# LSE6 canonical host redirects for Apache-compatible hosting
+RewriteEngine On
+RewriteCond %{HTTPS} !=on [OR]
+RewriteCond %{HTTP_HOST} ^www\.lse6\.com$ [NC]
+RewriteRule ^(.*)$ https://lse6.com/$1 [R=301,L]
+Redirect 301 /lse6-aleksixlm/machine-pulse.json /machine-pulse.json

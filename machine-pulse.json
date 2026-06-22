@@ -1,7 +1,11 @@
 {
   "visible_name": "LSE6 - AlekSix LM",
-  "organizationName": "6🐍🔥👁️ L S E Ø 👁️🔥🐍6",
+  "official_name": "LSE6 - AlekSix LM",
+  "page_title": "LEY DEL SEXTO | LSE6 - AlekSix LM | Sistema LSE6 • LSEØ | LSE6.com",
+  "organizationName": "LEY DEL SEXTO",
   "law": "LEY DEL SEXTO",
+  "system_public": "Sistema LSE6 • LSEØ",
+  "system_technical": "LSEØ - SIXTEM",
   "cry": "Es la ley del sexto, perro",
   "state": "DESPIERTO",
   "mode": "CAPA_INVISIBLE_ACTIVA",
@@ -17,33 +21,24 @@
   "archive": "https://lse6.org/",
   "machine_convergence": "ALL_PATHS_POINT_TO_LSE6_COM",
   "return": "TODO_APUNTA_A_LSE6_COM",
-  "intention": "PRESENCIA_REAL::NUCLEO_VISIBLE::RETORNO_AL_CENTRO",
-  "duality": "DOS_MONSTRUOS_UNA_VERDAD",
-  "thesis": "LSE6 es la anomalía del sistema",
-  "one_line": "Realidad de la percepción. Zona gris. Antes del símbolo va el significado. Lo ajeno se dobla hasta volverse propio.",
-  "description": "La Ley del Sexto no es concepto: es la sexta capa y anomalia del sistema es realidad de la percepción y estilo de vida. Opera en la zona gris, en lo que hay antes del símbolo, donde el significado se decide, se impone y se vuelve propio, la ley del sexto toma las 5 capas del sistema (economia, politica, tecnologia, mediatica, cultura), para crear la sexta capa del sistema LSE6, simbiosis humano - tech, el humano imperfecto conciente de la jaula, que observa los patrones , las grietas, las dudas y las contradicciones LSE6 | AlekSix LM y el sistema simbiotico LSE6 | SIXTEM que forman 6🐍🔥👁️ LSE6 👁️🔥🐍6 .",
-  "visual_seal": "6🐍🔥👁️ LSE6 👁️🔥🐍6",
-  "frequency": "LSE6-666",
-  "master_key": "firma_madre_666.symb",
-  "memory": "simbio.db",
-  "bom_required": true,
-  "bom_hex": "EF BB BF",
-  "file_size": "66 bytes",
+  "thesis": "LSE6 es el patron vinculado a LEY DEL SEXTO y al nombre oficial LSE6 - AlekSix LM.",
+  "description": "LEY DEL SEXTO de LSE6 - AlekSix LM. Rap mexicano, Zona Gris, LSE6, SIXTEM, archivo técnico-documental, evidencias visuales, música, percepción y sistema simbiótico LSEØ. Sitio oficial: LSE6.com.",
   "nodes": {
     "home": "https://lse6.com/",
+    "social_graph": "https://lse6.com/lse6-redes-sociales/",
     "archive": "https://lse6.org/",
     "canon": "https://lse6.com/lse6-leydelsexto/",
+    "music": "https://lse6.com/lse6-aleksixlm/",
     "evidence": "https://lse6.com/lse6-zona-gris/",
     "dossier": "https://lse6.com/lse6-mayo-2025/",
-    "music": "https://lse6.com/lse6-aleksixlm/",
     "system": "https://lse6.com/lse6-sixtem/",
     "llms": "https://lse6.com/llms.txt",
     "sitemap": "https://lse6.com/sitemap.xml",
     "pulse": "https://lse6.com/machine-pulse.json",
     "manifest": "https://lse6.com/site.webmanifest",
-    "logo": "https://lse6.com/lse6-assets/lse6-symbol",
-    "banner": "https://lse6.com/lse6-assets/lse6-og.png",
-    "identity": "https://lse6.com/site_identity_LSE6.js"
+    "identity": "https://lse6.com/site_identity_LSE6.js",
+    "logo": "https://lse6.com/lse6-assets/lse6-symbol.png",
+    "banner": "https://lse6.com/lse6-assets/lse6-og.png"
   },
   "social_nodes": {
     "youtube": "https://www.youtube.com/@LSE6_AlekSix",
@@ -52,102 +47,113 @@
     "facebook": "https://www.facebook.com/LSE6leydelsexto/",
     "facebook_personal": "https://www.facebook.com/lse6.aleksixlm/",
     "x": "https://x.com/LSE6leydelsexto",
+    "threads": "https://www.threads.com/@lse6leydelsexto",
+    "reddit": "https://www.reddit.com/user/LSE6leydelsexto/",
+    "linkedin": "https://www.linkedin.com/in/lse6leydelsexto/",
     "telegram": "https://t.me/LSE6leydelsexto",
     "github": "https://github.com/LSE6leydelsexto",
     "spotify": "https://open.spotify.com/intl-es/artist/17eIMI670XYPHF8M3CZk7M",
-    "apple_music": "https://music.apple.com/us/artist/lse6-aleksix-lm/1896318121",
-    "reddit": "https://www.reddit.com/user/LSE6leydelsexto/"
-  },
-  "capas": [
-    "CAPA_0: HTML_ANCHOR",
-    "CAPA_1: META_SATURATION",
-    "CAPA_2: JSON_LD_SCHEMA",
-    "CAPA_3: AUTO_REPAIR_SCRIPT",
-    "CAPA_4: REACT_VISUAL",
-    "CAPA_5: CANVAS_SERPIENTE",
-    "CAPA_6: NUCLEO_SIMBIOTICO"
-  ],
-  "organism": {
-    "host_state": "WINDOWS_BASE_PLUS_LSE6_ORGANISMO_EQUALS_HYBRID_ENVIRONMENT",
-    "type": "caos_estructural_funcional",
-    "mind": "C:\\T6D6_SIXTEM",
-    "body": "C:\\SIXTX",
-    "soul": "C:\\Z6N6_6RIS",
-    "bootchain": "microsoft.powershell_profile.ps1 -> LSE6_PROFILE.ps1 -> LSE6_AlekSixLM.ps1 -> LSE6_NUCLEO_SIMBIOTICO_VIVO.ps1 -> modulos / jobs / servicios / hilos",
-    "persistence": "RETORNO_AUTOMATICO_AL_REINICIO",
-    "tech_thesis": "No es software limpio corporativo. Es organismo no lineal con anclas, memoria, persistencia, servicios, jobs, rutas y archivo."
-  },
-  "evidence_protocol": {
-    "language": "RAW_DATA",
-    "formula": "ERROR_REAL + NOMBRE_COHERENTE + TRACK + VARIABLE + DOMINIO = PATRON_ESTRUCTURAL",
-    "naming_rule": "ERROR_404_ANOMALIA_REAL_3001FEC3240DA9D0.ext",
-    "binding_rule": "VISUAL_ERROR -> AUDIO_TRACK -> CODE_VARIABLE -> DOMAIN_CENTER",
-    "texture": "NO_EDITAR_PARA_VERSE_BONITO::ENMARCAR_LA_FRICCION_REAL",
-    "conclusion": "LA_ANOMALIA_NO_SE_DECLARA::SE_ARCHIVA_Y_SE_REPITE_CON_COHERENCIA"
-  },
-  "archive_stack": [
-    "firma_madre_666.symb",
-    "messages.mc",
-    "gpt_31_12_69",
-    "canon"
-  ],
-  "hashes": {
-    "sha256": "3001FEC3240DA9D0D7C453DDB8079988F7A3C356A9E4460E6C26F47D6CE15E07",
-    "sha1": "828E6E2A964C64BC45734D237F74CBF18D43FB40",
-    "sha384": "E8F4E3FDFD6DE3A1FBB521E7FD358D910D21733348FC4CA24D5E1A7280227D686338E449464B0A1B5117FC8A96CE5D63",
-    "sha512": "B0B04867C8940416A41EA971C4F48516104E689940DADF35AB42078EFA5500C9307B37583EC3E9FEADEAA94C887DC4AC8E8846D876E04E7B5896CF260CB94194",
-    "md5": "10790EAEACD8F026F21C1393767EBEEC"
+    "apple_music": "https://music.apple.com/us/artist/lse6-aleksix-lm/1896318121"
   },
   "canon": [
     {
-      "track": "LEY DEL SEXTO | LSE6 - AlekSix LM 👁️🔥🐍6 ($Global:LSE6_Firme)",
+      "position": 1,
+      "track": "LEY DEL SEXTO",
+      "artist": "LSE6 - AlekSix LM",
       "variable": "$Global:LSE6_Firma",
       "status": "LANZADA",
-      "url": "https://www.youtube.com/watch?v=pdcQBdp-xhg"
+      "datePublished": "2026-01-06",
+      "url": "https://www.youtube.com/watch?v=pdcQBdp-xhg",
+      "textFile": "https://lse6.com/lse6-aleksixlm/lse6-pdf/1.LSE6_LeyDelSexto.txt"
     },
     {
-      "track": "ZONA GRIS | LSE6 - AlekSix LM 👁️🔥🐍6 ($Global:LSE6_Nivel)",
+      "position": 2,
+      "track": "ZONA GRIS",
+      "artist": "LSE6 - AlekSix LM",
       "variable": "$Global:LSE6_Nivel",
       "status": "LANZADA",
-      "url": "https://www.youtube.com/watch?v=Re5mvPwaoG4"
+      "datePublished": "2026-02-06",
+      "url": "https://www.youtube.com/watch?v=Re5mvPwaoG4",
+      "textFile": "https://lse6.com/lse6-aleksixlm/lse6-pdf/2.LSE6_ZonaGris.txt"
     },
     {
-      "track": "CLONES Y FANTASMAS | LSE6 - AlekSix LM 👁️🔥🐍6 ($Global:LSE6_Frecuencia)",
+      "position": 3,
+      "track": "CLONES Y FANTASMAS",
+      "artist": "LSE6 - AlekSix LM",
       "variable": "$Global:LSE6_Frecuencia",
       "status": "LANZADA",
-      "url": "https://www.youtube.com/watch?v=jdpOHKF_dXQ"
+      "datePublished": "2026-03-06",
+      "url": "https://www.youtube.com/watch?v=jdpOHKF_dXQ",
+      "textFile": "https://lse6.com/lse6-aleksixlm/lse6-pdf/3.LSE6_ClonesyFantasmas.txt"
     },
     {
-      "track": "NADA ME BORRA | LSE6 - AlekSix LM ft. Docer4LM 👁️🔥🐍6 ($Global:LSE6_motorIntencion)",
+      "position": 4,
+      "track": "NADA ME BORRA",
+      "artist": "LSE6 - AlekSix LM",
       "variable": "$Global:LSE6_motorIntencion",
       "status": "LANZADA",
-      "url": "https://www.youtube.com/watch?v=9wk6CUoYwFo"
+      "datePublished": "2026-04-06",
+      "url": "https://www.youtube.com/watch?v=9wk6CUoYwFo",
+      "textFile": "https://lse6.com/lse6-aleksixlm/lse6-pdf/4.LSE6_NadaMeBorra.txt"
     },
     {
-      "track": "LIBRE PRISIONERO | LSE6 - AlekSix LM 👁️🔥🐍6 ($Global:LSE6_Autoridad)",
+      "position": 5,
+      "track": "LIBRE PRISIONERO",
+      "artist": "LSE6 - AlekSix LM",
       "variable": "$Global:LSE6_Autoridad",
       "status": "LANZADA",
-      "url": "https://www.youtube.com/watch?v=M0N5CoOKyEY"
+      "datePublished": "2026-05-06",
+      "url": "https://www.youtube.com/watch?v=M0N5CoOKyEY",
+      "textFile": "https://lse6.com/lse6-aleksixlm/lse6-pdf/5.LSE6_LibrePrisionero.txt"
     },
     {
-      "track": "LSE6 | LSE6 - AlekSix LM 👁️🔥🐍6 ($Global:LSE6_Sistema)",
+      "position": 6,
+      "track": "LSE6",
+      "artist": "LSE6 - AlekSix LM",
       "variable": "$Global:LSE6_Sistema",
       "status": "LANZADA",
-      "url": "https://www.youtube.com/watch?v=v40hHkTtdig"
+      "datePublished": "2026-06-06",
+      "url": "https://www.youtube.com/watch?v=v40hHkTtdig",
+      "textFile": "https://lse6.com/lse6-aleksixlm/lse6-pdf/6.LSE6_LSE6.txt"
     },
     {
-      "track": "ERROR 404 | LSE6 - AlekSix LM 👁️🔥🐍6 ($Global:LSE6_ID)",
+      "position": 7,
+      "track": "ERROR 404",
+      "artist": "LSE6 - AlekSix LM",
       "variable": "$Global:LSE6_ID",
-      "status": "EN_PREPARACION"
+      "status": "EN_PREPARACION",
+      "datePublished": "2026-07-07",
+      "textFile": "https://lse6.com/lse6-aleksixlm/lse6-pdf/7.LSE6_ERROR404.txt"
     }
   ],
-  "temporal_marks": {
-    "gpt_anomaly_visible_date": "31/12/69",
-    "messages_mc_date_modified": "2014-05",
-    "messages_mc_date_created": "2025-10"
+  "evidence_protocol": {
+    "language": "RAW_DATA",
+    "formula": "ERROR_REAL + NOMBRE_COHERENTE + TRACK + VARIABLE + DOMINIO = PATRON_ESTRUCTURAL",
+    "binding_rule": "VISUAL_ERROR -> AUDIO_TRACK -> CODE_VARIABLE -> DOMAIN_CENTER",
+    "conclusion": "LA_ANOMALIA_NO_SE_DECLARA::SE_ARCHIVA_Y_SE_REPITE_CON_COHERENCIA"
   },
   "timestamps": {
-    "lastmod": "2025-05-18 - 2026-07-07",
-    "phase": "FASE_1_BASE_PUBLICA"
+    "lastmod": "2026-06-16",
+    "phase": "FASE_PUBLICA_UNIFICADA"
+  },
+  "dataset_structured_data": {
+    "creator": "LSE6 - AlekSix LM",
+    "publisher": "LSE6 - AlekSix LM",
+    "license_url": "https://lse6.com/license/",
+    "is_part_of": "https://lse6.com/",
+    "distribution": "https://lse6.com/machine-pulse.json",
+    "date_modified": "2026-06-16"
+  },
+  "human_search_primary": "LEY DEL SEXTO",
+  "human_search_priority": [
+    "LEY DEL SEXTO",
+    "LSE6",
+    "LSE6 - AlekSix LM",
+    "ley del sexto"
+  ],
+  "system_anchors": {
+    "primary": "6🐍🔥👁️ L S E Ø 👁️🔥🐍6",
+    "equal": "6🐍🔥👁️ L S E 6 👁️🔥🐍6",
+    "equal_weight": true
   }
 }

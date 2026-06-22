@@ -1,14 +1,14 @@
 {
-  "name": "6🐍🔥👁️ LSEØ 👁️🔥🐍6",
-  "short_name": "LSE6",
-  "visible_name": "LSE6 - AlekSix LM",
-  "law": "Ley Del Sexto",
-  "description": "LSE6 - AlekSix LM | LEY DEL SEXTO",
+  "name": "LEY DEL SEXTO | LSE6 - AlekSix LM | Sistema LSE6 • LSEØ",
+  "short_name": "LEY DEL SEXTO",
+  "description": "LEY DEL SEXTO, Sistema LSE6 de LSE6 - AlekSix LM. Sistema LSE6 Rap mexicano, Zona Gris, LSE6, SIXTEM, archivo técnico-documental, evidencias visuales, música, percepción y sistema simbiótico LSEØ. Sitio oficial: LSE6.com.",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
   "background_color": "#020202",
   "theme_color": "#39ff14",
+  "orientation": "any",
+  "lang": "es-MX",
   "icons": [
     {
       "src": "./apple-touch-icon.png",
@@ -33,5 +33,7 @@
       "type": "image/png",
       "purpose": "any maskable"
     }
-  ]
+  ],
+  "categories": ["music", "entertainment", "technology"],
+  "prefer_related_applications": false
 }

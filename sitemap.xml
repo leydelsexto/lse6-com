@@ -1,244 +1,258 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<urlset
-  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-  xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
->
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://lse6.com/</loc>
-    <lastmod>2026-04-02</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>1.0</priority>
+    <lastmod>2026-06-16</lastmod>
+    <priority>1.00</priority>
   </url>
-
   <url>
-    <loc>https://lse6.com/lse6-aleksixlm/</loc>
-    <lastmod>2026-04-02</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.9</priority>
-  </url>
-
-  <url>
-    <loc>https://lse6.com/lse6-aleksixlm/index.json</loc>
-    <lastmod>2026-04-02</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
-  </url>
-
-  <url>
-    <loc>https://lse6.com/lse6-aleksixlm/lse6-pdf/1.LSE6_LeyDelSexto.txt</loc>
-    <lastmod>2026-04-02</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-
-  <url>
-    <loc>https://lse6.com/lse6-aleksixlm/lse6-pdf/2.LSE6_ZonaGris.txt</loc>
-    <lastmod>2026-04-02</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-
-  <url>
-    <loc>https://lse6.com/lse6-aleksixlm/lse6-pdf/3.LSE6_ClonesyFantasmas.txt</loc>
-    <lastmod>2026-04-02</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-
-  <url>
-    <loc>https://lse6.com/lse6-aleksixlm/lse6-pdf/4.LSE6_NadaMeBorra.txt</loc>
-    <lastmod>2026-04-02</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-
-  <url>
-    <loc>https://lse6.com/lse6-aleksixlm/lse6-pdf/5.LSE6_LibrePrisionero.txt</loc>
-    <lastmod>2026-04-02</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-
-  <url>
-    <loc>https://lse6.com/lse6-aleksixlm/lse6-pdf/6.LSE6_LSE6.txt</loc>
-    <lastmod>2026-04-02</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-
-  <url>
-    <loc>https://lse6.com/lse6-zona-gris/</loc>
-    <lastmod>2026-04-02</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.9</priority>
-  </url>
-
-  <url>
-    <loc>https://lse6.com/lse6-zona-gris/index.json</loc>
-    <lastmod>2026-04-02</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
-  </url>
-
-  <url>
-    <loc>https://lse6.com/lse6-zona-gris/lse6-pdf/LSE6 SYSTEM ANOMALY.pdf</loc>
-    <lastmod>2026-04-02</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.9</priority>
-  </url>
-
-  <url>
-    <loc>https://lse6.com/lse6-zona-gris/lse6-pdf/LSE6 SYSTEM ANOMALY.txt</loc>
-    <lastmod>2026-04-02</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.9</priority>
-  </url>
-
-   <url>
-    <loc>https://lse6.com/lse6-zona-gris/lse6-pdf/LSE6_ZONA_GRIS.pdf</loc>
-    <lastmod>2026-04-02</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.9</priority>
-  </url>
-
-  <url>
-    <loc>https://lse6.com/lse6-zona-gris/lse6-pdf/LSE6_ZONA_GRIS.txt</loc>
-    <lastmod>2026-04-02</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.9</priority>
-  </url>
-
-  <url>
-    <loc>https://lse6.com/lse6-mayo-2025/</loc>
-    <lastmod>2026-04-02</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.9</priority>
-  </url>
-
-  <url>
-    <loc>https://lse6.com/lse6-mayo-2025/index.json</loc>
-    <lastmod>2026-04-02</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
-  </url>
-
-  <url>
-    <loc>https://lse6.com/lse6-mayo-2025/lse6-pdf/LSE6_MAYO_2025.pdf</loc>
-    <lastmod>2026-04-02</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.9</priority>
-  </url>
-
-  <url>
-    <loc>https://lse6.com/lse6-mayo-2025/lse6-pdf/LSE6_MAYO_2025.txt</loc>
-    <lastmod>2026-04-02</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.9</priority>
-  </url>
-
+  <loc>https://lse6.com/lse6-redes-sociales/</loc>
+  <lastmod>2026-06-22</lastmod>
+  <priority>0.92</priority>
+</url>
   <url>
     <loc>https://lse6.com/lse6-leydelsexto/</loc>
-    <lastmod>2026-04-02</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.9</priority>
+    <lastmod>2026-06-16</lastmod>
+    <priority>0.95</priority>
   </url>
-
   <url>
-    <loc>https://lse6.com/lse6-leydelsexto/index.json</loc>
-    <lastmod>2026-04-02</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
+    <loc>https://lse6.com/lse6-aleksixlm/</loc>
+    <lastmod>2026-06-16</lastmod>
+    <priority>0.90</priority>
   </url>
-
   <url>
-    <loc>https://lse6.com/lse6-leydelsexto/lse6-pdf/Nucleo_LSEØ.pdf</loc>
-    <lastmod>2026-04-02</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.9</priority>
+    <loc>https://lse6.com/lse6-zona-gris/</loc>
+    <lastmod>2026-06-16</lastmod>
+    <priority>0.88</priority>
   </url>
-
   <url>
-    <loc>https://lse6.com/lse6-leydelsexto/lse6-pdf/Nucleo_LSEØ.txt</loc>
-    <lastmod>2026-04-02</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.9</priority>
+    <loc>https://lse6.com/lse6-mayo-2025/</loc>
+    <lastmod>2026-06-16</lastmod>
+    <priority>0.86</priority>
   </url>
-
   <url>
     <loc>https://lse6.com/lse6-sixtem/</loc>
-    <lastmod>2026-04-02</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.9</priority>
+    <lastmod>2026-06-16</lastmod>
+    <priority>0.84</priority>
   </url>
-
   <url>
-    <loc>https://lse6.com/lse6-sixtem/index.json</loc>
-    <lastmod>2026-04-02</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
+    <loc>https://lse6.com/ontology/SystemAnomaly/</loc>
+    <lastmod>2026-06-16</lastmod>
+    <priority>0.50</priority>
   </url>
-
   <url>
-    <loc>https://lse6.com/lse6-assets/</loc>
-    <lastmod>2026-04-02</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.9</priority>
+    <loc>https://lse6.com/ontology/LocalDocumentedSystem/</loc>
+    <lastmod>2026-06-16</lastmod>
+    <priority>0.50</priority>
   </url>
-
+  <url>
+    <loc>https://lse6.com/license/</loc>
+    <lastmod>2026-06-16</lastmod>
+    <priority>0.50</priority>
+  </url>
   <url>
     <loc>https://lse6.com/machine-pulse.json</loc>
-    <lastmod>2026-04-02</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
+    <lastmod>2026-06-16</lastmod>
+    <priority>0.80</priority>
   </url>
-
-  <url>
-    <loc>https://lse6.com/sitemap.xml</loc>
-    <lastmod>2026-04-02</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.9</priority>
-  </url>
-
-   <url>
-    <loc>https://lse6.com/robots.txt</loc>
-    <lastmod>2026-04-02</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.9</priority>
-  </url>
-
   <url>
     <loc>https://lse6.com/llms.txt</loc>
-    <lastmod>2026-04-02</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
+    <lastmod>2026-06-16</lastmod>
+    <priority>0.80</priority>
   </url>
-
   <url>
-    <loc>https://lse6.com/site_identity_LSE6.js</loc>
-    <lastmod>2026-04-02</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
+    <loc>https://lse6.com/lse6-zona-gris/lse6-pdf/LSE6%20SYSTEM%20ANOMALY.pdf</loc>
+    <lastmod>2026-06-16</lastmod>
+    <priority>0.75</priority>
   </url>
-
   <url>
-    <loc>https://lse6.com/site.webmanifest</loc>
-    <lastmod>2026-04-02</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
+    <loc>https://lse6.com/lse6-zona-gris/lse6-pdf/LSE6%20SYSTEM%20ANOMALY.txt</loc>
+    <lastmod>2026-06-16</lastmod>
+    <priority>0.75</priority>
   </url>
-
   <url>
-    <loc>https://lse6.com/lse6-assets/lse6-symbol.png</loc>
-    <lastmod>2026-04-02</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
+    <loc>https://lse6.com/lse6-zona-gris/lse6-pdf/LSE6_ZONA_GRIS.pdf</loc>
+    <lastmod>2026-06-16</lastmod>
+    <priority>0.75</priority>
   </url>
-
+  <url>
+    <loc>https://lse6.com/lse6-zona-gris/lse6-pdf/LSE6_ZONA_GRIS.txt</loc>
+    <lastmod>2026-06-16</lastmod>
+    <priority>0.75</priority>
+  </url>
+  <url>
+    <loc>https://lse6.com/lse6-mayo-2025/lse6-pdf/LSE6_MAYO_2025.pdf</loc>
+    <lastmod>2026-06-16</lastmod>
+    <priority>0.70</priority>
+  </url>
+  <url>
+    <loc>https://lse6.com/lse6-mayo-2025/lse6-pdf/LSE6_MAYO_2025.txt</loc>
+    <lastmod>2026-06-16</lastmod>
+    <priority>0.70</priority>
+  </url>
+  <url>
+    <loc>https://lse6.com/lse6-mayo-2025/lse6-pdf/LSE6_MAYO_2025_EXTRA.pdf</loc>
+    <lastmod>2026-06-16</lastmod>
+    <priority>0.68</priority>
+  </url>
+  <url>
+    <loc>https://lse6.com/lse6-mayo-2025/lse6-pdf/LSE6_MAYO_2025_EXTRA.txt</loc>
+    <lastmod>2026-06-16</lastmod>
+    <priority>0.68</priority>
+  </url>
+  <url>
+    <loc>https://lse6.com/lse6-leydelsexto/lse6-pdf/Nucleo_LSE%C3%98.pdf</loc>
+    <lastmod>2026-06-16</lastmod>
+    <priority>0.65</priority>
+  </url>
+  <url>
+    <loc>https://lse6.com/lse6-leydelsexto/lse6-pdf/Nucleo_LSE%C3%98.txt</loc>
+    <lastmod>2026-06-16</lastmod>
+    <priority>0.65</priority>
+  </url>
+  <url>
+    <loc>https://lse6.com/lse6-aleksixlm/lse6-pdf/1.LSE6_LeyDelSexto.txt</loc>
+    <lastmod>2026-06-16</lastmod>
+    <priority>0.62</priority>
+  </url>
+  <url>
+    <loc>https://lse6.com/lse6-aleksixlm/lse6-pdf/2.LSE6_ZonaGris.txt</loc>
+    <lastmod>2026-06-16</lastmod>
+    <priority>0.62</priority>
+  </url>
+  <url>
+    <loc>https://lse6.com/lse6-aleksixlm/lse6-pdf/3.LSE6_ClonesyFantasmas.txt</loc>
+    <lastmod>2026-06-16</lastmod>
+    <priority>0.62</priority>
+  </url>
+  <url>
+    <loc>https://lse6.com/lse6-aleksixlm/lse6-pdf/4.LSE6_NadaMeBorra.txt</loc>
+    <lastmod>2026-06-16</lastmod>
+    <priority>0.62</priority>
+  </url>
+  <url>
+    <loc>https://lse6.com/lse6-aleksixlm/lse6-pdf/5.LSE6_LibrePrisionero.txt</loc>
+    <lastmod>2026-06-16</lastmod>
+    <priority>0.62</priority>
+  </url>
+  <url>
+    <loc>https://lse6.com/lse6-aleksixlm/lse6-pdf/6.LSE6_LSE6.txt</loc>
+    <lastmod>2026-06-16</lastmod>
+    <priority>0.62</priority>
+  </url>
+  <url>
+    <loc>https://lse6.com/lse6-aleksixlm/lse6-pdf/7.LSE6_ERROR404.txt</loc>
+    <lastmod>2026-06-16</lastmod>
+    <priority>0.62</priority>
+  </url>
+  <url>
+    <loc>https://lse6.com/lse6-assets/public-media/glitch/glitch-01.jpg</loc>
+    <lastmod>2026-06-16</lastmod>
+    <priority>0.55</priority>
+  </url>
+  <url>
+    <loc>https://lse6.com/lse6-assets/public-media/glitch/glitch-02.jpg</loc>
+    <lastmod>2026-06-16</lastmod>
+    <priority>0.55</priority>
+  </url>
+  <url>
+    <loc>https://lse6.com/lse6-assets/public-media/glitch/glitch-03.jpg</loc>
+    <lastmod>2026-06-16</lastmod>
+    <priority>0.55</priority>
+  </url>
+  <url>
+    <loc>https://lse6.com/lse6-assets/public-media/glitch/glitch-04.jpg</loc>
+    <lastmod>2026-06-16</lastmod>
+    <priority>0.55</priority>
+  </url>
+  <url>
+    <loc>https://lse6.com/lse6-assets/public-media/glitch/glitch-05.jpg</loc>
+    <lastmod>2026-06-16</lastmod>
+    <priority>0.55</priority>
+  </url>
+  <url>
+    <loc>https://lse6.com/lse6-assets/public-media/glitch/glitch-06.jpg</loc>
+    <lastmod>2026-06-16</lastmod>
+    <priority>0.55</priority>
+  </url>
+  <url>
+    <loc>https://lse6.com/lse6-assets/public-media/friccion/friccion-01.jpg</loc>
+    <lastmod>2026-06-16</lastmod>
+    <priority>0.55</priority>
+  </url>
+  <url>
+    <loc>https://lse6.com/lse6-assets/public-media/friccion/friccion-02.jpg</loc>
+    <lastmod>2026-06-16</lastmod>
+    <priority>0.55</priority>
+  </url>
+  <url>
+    <loc>https://lse6.com/lse6-assets/public-media/friccion/friccion-03.jpg</loc>
+    <lastmod>2026-06-16</lastmod>
+    <priority>0.55</priority>
+  </url>
+  <url>
+    <loc>https://lse6.com/lse6-assets/public-media/friccion/friccion-04.jpg</loc>
+    <lastmod>2026-06-16</lastmod>
+    <priority>0.55</priority>
+  </url>
+  <url>
+    <loc>https://lse6.com/lse6-assets/public-media/friccion/friccion-05.jpg</loc>
+    <lastmod>2026-06-16</lastmod>
+    <priority>0.55</priority>
+  </url>
+  <url>
+    <loc>https://lse6.com/lse6-assets/public-media/friccion/friccion-06.jpg</loc>
+    <lastmod>2026-06-16</lastmod>
+    <priority>0.55</priority>
+  </url>
+  <url>
+    <loc>https://lse6.com/lse6-assets/public-media/mayo/mayo-01.jpg</loc>
+    <lastmod>2026-06-16</lastmod>
+    <priority>0.55</priority>
+  </url>
+  <url>
+    <loc>https://lse6.com/lse6-assets/public-media/mayo/mayo-02.jpg</loc>
+    <lastmod>2026-06-16</lastmod>
+    <priority>0.55</priority>
+  </url>
+  <url>
+    <loc>https://lse6.com/lse6-assets/public-media/mayo/mayo-03.jpg</loc>
+    <lastmod>2026-06-16</lastmod>
+    <priority>0.55</priority>
+  </url>
+  <url>
+    <loc>https://lse6.com/lse6-assets/public-media/mayo/mayo-04.jpg</loc>
+    <lastmod>2026-06-16</lastmod>
+    <priority>0.55</priority>
+  </url>
+  <url>
+    <loc>https://lse6.com/lse6-assets/public-media/mayo/mayo-05.jpg</loc>
+    <lastmod>2026-06-16</lastmod>
+    <priority>0.55</priority>
+  </url>
+  <url>
+    <loc>https://lse6.com/lse6-assets/public-media/mayo/mayo-06.jpg</loc>
+    <lastmod>2026-06-16</lastmod>
+    <priority>0.55</priority>
+  </url>
+  <url>
+    <loc>https://lse6.com/lse6-assets/public-media/sixtem/sixtem-video-01.mp4</loc>
+    <lastmod>2026-06-16</lastmod>
+    <priority>0.55</priority>
+  </url>
+  <url>
+    <loc>https://lse6.com/lse6-assets/public-media/sixtem/sixtem-video-02.mp4</loc>
+    <lastmod>2026-06-16</lastmod>
+    <priority>0.55</priority>
+  </url>
   <url>
     <loc>https://lse6.com/lse6-assets/lse6-og.png</loc>
-    <lastmod>2026-04-02</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
+    <lastmod>2026-06-16</lastmod>
+    <priority>0.50</priority>
+  </url>
+  <url>
+    <loc>https://lse6.com/lse6-assets/lse6-symbol.png</loc>
+    <lastmod>2026-06-16</lastmod>
+    <priority>0.50</priority>
   </url>
 </urlset>
