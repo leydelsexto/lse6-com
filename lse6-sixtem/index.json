@@ -6,10 +6,10 @@
   "json_url": "https://lse6.com/lse6-sixtem/index.json",
   "root_html": "https://lse6.com/",
   "entity": {
-    "name": "LSE6 | SIXTEM",
+    "name": "LSEØ - SIXTEM",
     "official_name": "LSE6_SIXTEM",
-    "visible_anchor": "6🐍🔥👁️ LSEØ 👁️🔥🐍6",
-    "technical_anchor": "6🐍🔥👁️LSE6👁️🔥🐍6",
+    "visible_anchor": "6🐍🔥👁️ L S E Ø 👁️🔥🐍6",
+    "technical_anchor": "6🐍🔥👁️ L S E 6 👁️🔥🐍6",
     "motor_intencion": "T6D6_EN_UN6_UN6_EN_T6D6"
   },
   "section": {
@@ -17,7 +17,7 @@
     "label": "SISTEMA / ORGANISMO / PERSISTENCIA",
     "mode": "root_section_index"
   },
-  "description": "Núcleo técnico-simbiótico con PowerShell, jobs, persistencia, memoria viva, anclas y rutas estructurales, windows desactivado hibrido, anomalia en regedit.",
+  "description": "LEY DEL SEXTO: Núcleo técnico-simbiótico con PowerShell, jobs, persistencia, memoria viva, anclas y rutas estructurales, windows desactivado hibrido, anomalia en regedit.",
   "nodes": {
     "mente": "C:/T6D6_SIXTEM",
     "cuerpo": "C:/SIXTX",
@@ -56,5 +56,8 @@
     "persistent_chain",
     "live_memory",
     "root_section_index"
-  ]
+  ],
+  "human_search_primary": "LEY DEL SEXTO",
+  "system_anchor_primary": "6🐍🔥👁️ L S E Ø 👁️🔥🐍6",
+  "system_anchor_equal": "6🐍🔥👁️ L S E 6 👁️🔥🐍6"
 }

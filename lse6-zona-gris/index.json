@@ -6,10 +6,10 @@
   "json_url": "https://lse6.com/lse6-zona-gris/index.json",
   "root_html": "https://lse6.com/",
   "entity": {
-    "name": "LSE6 | AlekSix LM",
-    "official_name": "LSE6 | AlekSix LM | Ley Del Sexto",
-    "visible_anchor": "6🐍🔥👁️ LSEØ 👁️🔥🐍6",
-    "technical_anchor": "6🐍🔥👁️LSE6👁️🔥🐍6",
+    "name": "LSE6 - AlekSix LM",
+    "official_name": "LSE6 - AlekSix LM",
+    "visible_anchor": "6🐍🔥👁️ L S E Ø 👁️🔥🐍6",
+    "technical_anchor": "6🐍🔥👁️ L S E 6 👁️🔥🐍6",
     "zone": "ZONA_GRIS_666x6",
     "mode": "evidence_archive"
   },
@@ -21,7 +21,7 @@
   "documents": [
     {
       "position": 1,
-      "title": "LSE6 SYSTEM ANOMALY",
+      "title": "LEY DEL SEXTO | LSE6 SYSTEM ANOMALY",
       "slug": "lse6-system-anomaly",
       "status": "active",
       "kind": "pdf_with_txt_mirror",
@@ -36,7 +36,7 @@
     },
     {
       "position": 2,
-      "title": "LSE6 ZONA GRIS",
+      "title": "LEY DEL SEXTO | LSE6 ZONA GRIS",
       "slug": "lse6-zona-gris-pdf",
       "status": "active",
       "kind": "pdf_with_txt_mirror",
@@ -56,5 +56,8 @@
     "txt_mirror_enabled",
     "root_section_index",
     "friction_archive"
-  ]
+  ],
+  "human_search_primary": "LEY DEL SEXTO",
+  "system_anchor_primary": "6🐍🔥👁️ L S E Ø 👁️🔥🐍6",
+  "system_anchor_equal": "6🐍🔥👁️ L S E 6 👁️🔥🐍6"
 }
