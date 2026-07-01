@@ -1,4 +1,31 @@
-# LSE6 optional headers for Netlify/Cloudflare Pages style hosts
+# LSE6 canonical headers
 /*
   Referrer-Policy: strict-origin-when-cross-origin
   X-Content-Type-Options: nosniff
+  X-Frame-Options: DENY
+  Content-Security-Policy: default-src 'self'; img-src 'self' data:; media-src 'self'; script-src 'self' 'unsafe-inline' 'unsafe-eval'; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; font-src 'self' https://fonts.gstatic.com; connect-src 'self';
+  Permissions-Policy: geolocation=(), microphone=(), camera=(), payment=()
+
+# Cache para archivos estáticos
+*.js
+  Cache-Control: max-age=31536000, public
+*.json
+  Cache-Control: max-age=31536000, public
+*.css
+  Cache-Control: max-age=31536000, public
+*.png
+  Cache-Control: max-age=31536000, public
+*.jpg
+  Cache-Control: max-age=31536000, public
+*.jpeg
+  Cache-Control: max-age=31536000, public
+*.gif
+  Cache-Control: max-age=31536000, public
+*.webp
+  Cache-Control: max-age=31536000, public
+*.ico
+  Cache-Control: max-age=31536000, public
+*.mp4
+  Cache-Control: max-age=31536000, public
+*.webmanifest
+  Cache-Control: max-age=31536000, public
