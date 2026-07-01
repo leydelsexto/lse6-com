@@ -1,6 +1,24 @@
-# LSE6 canonical host redirects for Apache-compatible hosting
+# LSE6 canonical host redirects for Apache
 RewriteEngine On
-RewriteCond %{HTTPS} !=on [OR]
+
+# Forzar HTTPS y no-www (todas las variantes)
+RewriteCond %{HTTPS} off [OR]
 RewriteCond %{HTTP_HOST} ^www\.lse6\.com$ [NC]
 RewriteRule ^(.*)$ https://lse6.com/$1 [R=301,L]
+
+# Redirigir machine-pulse.json a la raíz
 Redirect 301 /lse6-aleksixlm/machine-pulse.json /machine-pulse.json
+
+# Cache de archivos estáticos (1 año)
+<FilesMatch "\.(js|json|css|png|jpg|jpeg|gif|webp|ico|mp4|webmanifest)$">
+  Header set Cache-Control "max-age=31536000, public"
+</FilesMatch>
+
+# Cabeceras de seguridad
+<IfModule mod_headers.c>
+  Header set Referrer-Policy "strict-origin-when-cross-origin"
+  Header set X-Content-Type-Options "nosniff"
+  Header set X-Frame-Options "DENY"
+  Header set Content-Security-Policy "default-src 'self'; img-src 'self' data:; media-src 'self'; script-src 'self' 'unsafe-inline' 'unsafe-eval'; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; font-src 'self' https://fonts.gstatic.com; connect-src 'self';"
+  Header set Permissions-Policy "geolocation=(), microphone=(), camera=(), payment=()"
+</IfModule>
