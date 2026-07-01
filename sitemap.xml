@@ -1,15 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <!-- ==================== PÁGINAS PRINCIPALES ==================== -->
   <url>
     <loc>https://lse6.com/</loc>
     <lastmod>2026-06-16</lastmod>
     <priority>1.00</priority>
   </url>
   <url>
-  <loc>https://lse6.com/lse6-redes-sociales/</loc>
-  <lastmod>2026-06-22</lastmod>
-  <priority>0.92</priority>
-</url>
+    <loc>https://lse6.com/lse6-redes-sociales/</loc>
+    <lastmod>2026-06-22</lastmod>
+    <priority>0.92</priority>
+  </url>
   <url>
     <loc>https://lse6.com/lse6-leydelsexto/</loc>
     <lastmod>2026-06-16</lastmod>
@@ -35,31 +37,52 @@
     <lastmod>2026-06-16</lastmod>
     <priority>0.84</priority>
   </url>
-  <url>
-    <loc>https://lse6.com/ontology/SystemAnomaly/</loc>
-    <lastmod>2026-06-16</lastmod>
-    <priority>0.50</priority>
-  </url>
-  <url>
-    <loc>https://lse6.com/ontology/LocalDocumentedSystem/</loc>
-    <lastmod>2026-06-16</lastmod>
-    <priority>0.50</priority>
-  </url>
-  <url>
-    <loc>https://lse6.com/license/</loc>
-    <lastmod>2026-06-16</lastmod>
-    <priority>0.50</priority>
-  </url>
+
+  <!-- ==================== ARCHIVOS TÉCNICOS RAÍZ ==================== -->
   <url>
     <loc>https://lse6.com/machine-pulse.json</loc>
     <lastmod>2026-06-16</lastmod>
-    <priority>0.80</priority>
+    <priority>0.82</priority>
   </url>
   <url>
     <loc>https://lse6.com/llms.txt</loc>
     <lastmod>2026-06-16</lastmod>
     <priority>0.80</priority>
   </url>
+  <url>
+    <loc>https://lse6.com/site.webmanifest</loc>
+    <lastmod>2026-06-16</lastmod>
+    <priority>0.72</priority>
+  </url>
+  <url>
+    <loc>https://lse6.com/site_identity_LSE6.js</loc>
+    <lastmod>2026-06-16</lastmod>
+    <priority>0.70</priority>
+  </url>
+  <url>
+    <loc>https://lse6.com/robots.txt</loc>
+    <lastmod>2026-06-16</lastmod>
+    <priority>0.60</priority>
+  </url>
+
+  <!-- ==================== ONTOLOGY ==================== -->
+  <url>
+    <loc>https://lse6.com/ontology/SystemAnomaly/</loc>
+    <lastmod>2026-06-16</lastmod>
+    <priority>0.55</priority>
+  </url>
+  <url>
+    <loc>https://lse6.com/ontology/LocalDocumentedSystem/</loc>
+    <lastmod>2026-06-16</lastmod>
+    <priority>0.55</priority>
+  </url>
+  <url>
+    <loc>https://lse6.com/license/</loc>
+    <lastmod>2026-06-16</lastmod>
+    <priority>0.50</priority>
+  </url>
+
+  <!-- ==================== ZONA GRIS (PDF + TXT) ==================== -->
   <url>
     <loc>https://lse6.com/lse6-zona-gris/lse6-pdf/LSE6%20SYSTEM%20ANOMALY.pdf</loc>
     <lastmod>2026-06-16</lastmod>
@@ -80,6 +103,8 @@
     <lastmod>2026-06-16</lastmod>
     <priority>0.75</priority>
   </url>
+
+  <!-- ==================== MAYO 2025 (PDF + TXT) ==================== -->
   <url>
     <loc>https://lse6.com/lse6-mayo-2025/lse6-pdf/LSE6_MAYO_2025.pdf</loc>
     <lastmod>2026-06-16</lastmod>
@@ -100,6 +125,8 @@
     <lastmod>2026-06-16</lastmod>
     <priority>0.68</priority>
   </url>
+
+  <!-- ==================== NÚCLEO ==================== -->
   <url>
     <loc>https://lse6.com/lse6-leydelsexto/lse6-pdf/Nucleo_LSE%C3%98.pdf</loc>
     <lastmod>2026-06-16</lastmod>
@@ -110,6 +137,8 @@
     <lastmod>2026-06-16</lastmod>
     <priority>0.65</priority>
   </url>
+
+  <!-- ==================== TRACKS (TXT) ==================== -->
   <url>
     <loc>https://lse6.com/lse6-aleksixlm/lse6-pdf/1.LSE6_LeyDelSexto.txt</loc>
     <lastmod>2026-06-16</lastmod>
@@ -145,106 +174,37 @@
     <lastmod>2026-06-16</lastmod>
     <priority>0.62</priority>
   </url>
-  <url>
-    <loc>https://lse6.com/lse6-assets/public-media/glitch/glitch-01.jpeg</loc>
-    <lastmod>2026-06-16</lastmod>
-    <priority>0.55</priority>
-  </url>
-  <url>
-    <loc>https://lse6.com/lse6-assets/public-media/glitch/glitch-02.jpeg</loc>
-    <lastmod>2026-06-16</lastmod>
-    <priority>0.55</priority>
-  </url>
-  <url>
-    <loc>https://lse6.com/lse6-assets/public-media/glitch/glitch-03.jpeg</loc>
-    <lastmod>2026-06-16</lastmod>
-    <priority>0.55</priority>
-  </url>
-  <url>
-    <loc>https://lse6.com/lse6-assets/public-media/glitch/glitch-04.jpeg</loc>
-    <lastmod>2026-06-16</lastmod>
-    <priority>0.55</priority>
-  </url>
-  <url>
-    <loc>https://lse6.com/lse6-assets/public-media/glitch/glitch-05.jpeg</loc>
-    <lastmod>2026-06-16</lastmod>
-    <priority>0.55</priority>
-  </url>
-  <url>
-    <loc>https://lse6.com/lse6-assets/public-media/glitch/glitch-06.jpeg</loc>
-    <lastmod>2026-06-16</lastmod>
-    <priority>0.55</priority>
-  </url>
-  <url>
-    <loc>https://lse6.com/lse6-assets/public-media/friccion/friccion-01.jpeg</loc>
-    <lastmod>2026-06-16</lastmod>
-    <priority>0.55</priority>
-  </url>
-  <url>
-    <loc>https://lse6.com/lse6-assets/public-media/friccion/friccion-02.jpeg</loc>
-    <lastmod>2026-06-16</lastmod>
-    <priority>0.55</priority>
-  </url>
-  <url>
-    <loc>https://lse6.com/lse6-assets/public-media/friccion/friccion-03.jpeg</loc>
-    <lastmod>2026-06-16</lastmod>
-    <priority>0.55</priority>
-  </url>
-  <url>
-    <loc>https://lse6.com/lse6-assets/public-media/friccion/friccion-04.jpeg</loc>
-    <lastmod>2026-06-16</lastmod>
-    <priority>0.55</priority>
-  </url>
-  <url>
-    <loc>https://lse6.com/lse6-assets/public-media/friccion/friccion-05.jpeg</loc>
-    <lastmod>2026-06-16</lastmod>
-    <priority>0.55</priority>
-  </url>
-  <url>
-    <loc>https://lse6.com/lse6-assets/public-media/friccion/friccion-06.jpeg</loc>
-    <lastmod>2026-06-16</lastmod>
-    <priority>0.55</priority>
-  </url>
-  <url>
-    <loc>https://lse6.com/lse6-assets/public-media/mayo/mayo-01.png</loc>
-    <lastmod>2026-06-16</lastmod>
-    <priority>0.55</priority>
-  </url>
-  <url>
-    <loc>https://lse6.com/lse6-assets/public-media/mayo/mayo-02.png</loc>
-    <lastmod>2026-06-16</lastmod>
-    <priority>0.55</priority>
-  </url>
-  <url>
-    <loc>https://lse6.com/lse6-assets/public-media/mayo/mayo-03.jpg</loc>
-    <lastmod>2026-06-16</lastmod>
-    <priority>0.55</priority>
-  </url>
-  <url>
-    <loc>https://lse6.com/lse6-assets/public-media/mayo/mayo-04.png</loc>
-    <lastmod>2026-06-16</lastmod>
-    <priority>0.55</priority>
-  </url>
-  <url>
-    <loc>https://lse6.com/lse6-assets/public-media/mayo/mayo-05.jpeg</loc>
-    <lastmod>2026-06-16</lastmod>
-    <priority>0.55</priority>
-  </url>
-  <url>
-    <loc>https://lse6.com/lse6-assets/public-media/mayo/mayo-06.jpeg</loc>
-    <lastmod>2026-06-16</lastmod>
-    <priority>0.55</priority>
-  </url>
-  <url>
-    <loc>https://lse6.com/lse6-assets/public-media/sixtem/sixtem-video-01.mp4</loc>
-    <lastmod>2026-06-16</lastmod>
-    <priority>0.55</priority>
-  </url>
-  <url>
-    <loc>https://lse6.com/lse6-assets/public-media/sixtem/sixtem-video-02.mp4</loc>
-    <lastmod>2026-06-16</lastmod>
-    <priority>0.55</priority>
-  </url>
+
+  <!-- ==================== ASSETS PÚBLICOS (Imágenes y Videos) ==================== -->
+  <!-- Glitch -->
+  <url><loc>https://lse6.com/lse6-assets/public-media/glitch/glitch-01.jpeg</loc><lastmod>2026-06-16</lastmod><priority>0.52</priority></url>
+  <url><loc>https://lse6.com/lse6-assets/public-media/glitch/glitch-02.jpeg</loc><lastmod>2026-06-16</lastmod><priority>0.52</priority></url>
+  <url><loc>https://lse6.com/lse6-assets/public-media/glitch/glitch-03.jpeg</loc><lastmod>2026-06-16</lastmod><priority>0.52</priority></url>
+  <url><loc>https://lse6.com/lse6-assets/public-media/glitch/glitch-04.jpeg</loc><lastmod>2026-06-16</lastmod><priority>0.52</priority></url>
+  <url><loc>https://lse6.com/lse6-assets/public-media/glitch/glitch-05.jpeg</loc><lastmod>2026-06-16</lastmod><priority>0.52</priority></url>
+  <url><loc>https://lse6.com/lse6-assets/public-media/glitch/glitch-06.jpeg</loc><lastmod>2026-06-16</lastmod><priority>0.52</priority></url>
+
+  <!-- Fricción -->
+  <url><loc>https://lse6.com/lse6-assets/public-media/friccion/friccion-01.jpeg</loc><lastmod>2026-06-16</lastmod><priority>0.52</priority></url>
+  <url><loc>https://lse6.com/lse6-assets/public-media/friccion/friccion-02.jpeg</loc><lastmod>2026-06-16</lastmod><priority>0.52</priority></url>
+  <url><loc>https://lse6.com/lse6-assets/public-media/friccion/friccion-03.jpeg</loc><lastmod>2026-06-16</lastmod><priority>0.52</priority></url>
+  <url><loc>https://lse6.com/lse6-assets/public-media/friccion/friccion-04.jpeg</loc><lastmod>2026-06-16</lastmod><priority>0.52</priority></url>
+  <url><loc>https://lse6.com/lse6-assets/public-media/friccion/friccion-05.jpeg</loc><lastmod>2026-06-16</lastmod><priority>0.52</priority></url>
+  <url><loc>https://lse6.com/lse6-assets/public-media/friccion/friccion-06.jpeg</loc><lastmod>2026-06-16</lastmod><priority>0.52</priority></url>
+
+  <!-- Mayo -->
+  <url><loc>https://lse6.com/lse6-assets/public-media/mayo/mayo-01.png</loc><lastmod>2026-06-16</lastmod><priority>0.52</priority></url>
+  <url><loc>https://lse6.com/lse6-assets/public-media/mayo/mayo-02.png</loc><lastmod>2026-06-16</lastmod><priority>0.52</priority></url>
+  <url><loc>https://lse6.com/lse6-assets/public-media/mayo/mayo-03.jpg</loc><lastmod>2026-06-16</lastmod><priority>0.52</priority></url>
+  <url><loc>https://lse6.com/lse6-assets/public-media/mayo/mayo-04.png</loc><lastmod>2026-06-16</lastmod><priority>0.52</priority></url>
+  <url><loc>https://lse6.com/lse6-assets/public-media/mayo/mayo-05.jpeg</loc><lastmod>2026-06-16</lastmod><priority>0.52</priority></url>
+  <url><loc>https://lse6.com/lse6-assets/public-media/mayo/mayo-06.jpeg</loc><lastmod>2026-06-16</lastmod><priority>0.52</priority></url>
+
+  <!-- Sixtem Videos -->
+  <url><loc>https://lse6.com/lse6-assets/public-media/sixtem/sixtem-video-01.mp4</loc><lastmod>2026-06-16</lastmod><priority>0.55</priority></url>
+  <url><loc>https://lse6.com/lse6-assets/public-media/sixtem/sixtem-video-02.mp4</loc><lastmod>2026-06-16</lastmod><priority>0.55</priority></url>
+
+  <!-- ==================== ASSETS PRINCIPALES ==================== -->
   <url>
     <loc>https://lse6.com/lse6-assets/lse6-og.png</loc>
     <lastmod>2026-06-16</lastmod>
@@ -255,4 +215,20 @@
     <lastmod>2026-06-16</lastmod>
     <priority>0.50</priority>
   </url>
+  <url>
+    <loc>https://lse6.com/lse6-assets/LSE6_LOGO_TRANSPARENTE.png</loc>
+    <lastmod>2026-06-16</lastmod>
+    <priority>0.50</priority>
+  </url>
+  <url>
+    <loc>https://lse6.com/lse6-assets/LSE6_GREENTECH_TRANSPARENTE.png</loc>
+    <lastmod>2026-06-16</lastmod>
+    <priority>0.50</priority>
+  </url>
+  <url>
+    <loc>https://lse6.com/lse6-assets/BarrioBravoRecords.png</loc>
+    <lastmod>2026-06-16</lastmod>
+    <priority>0.48</priority>
+  </url>
+
 </urlset>
