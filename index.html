@@ -5107,22 +5107,53 @@ LSE6 - AlekSix LM >`;
       updateEye(e.clientX / window.innerWidth, e.clientY / window.innerHeight);
     }, { passive: true });
   </script>
-<script src="./site_identity_LSE6.js" type="module"></script>
-<script>
-  fetch('./machine-pulse.json')
-    .then(r => {
-      if (!r.ok) throw new Error('No se pudo cargar machine-pulse.json');
-      return r.json();
-    })
-    .then(data => {
-      console.log('LSE6 machine pulse:', data);
+  <!-- ========================================================== -->
+  <!-- 🔥 LSE6 - IDENTIDAD + PULSO (UN SOLO BLOQUE)               -->
+  <!-- ========================================================== -->
 
-      // opcional: dejar una marca en window
-      window.LSE6_MACHINE_PULSE = data;
-    })
-    .catch(err => {
-      console.warn('machine-pulse.json no cargó:', err);
-    });
-</script>
+  <!-- Módulo principal: importa site_identity_LSE6.js y activa todo -->
+  <script type="module">
+    // Importar SITE y funciones (el módulo ya se auto-aplicó al cargar)
+    import { SITE, buildMachinePulse } from './site_identity_LSE6.js';
+
+    // --- Generar pulso dinámico ---
+    const pulse = buildMachinePulse();
+    localStorage.setItem('LSE6_MACHINE_PULSE', pulse);
+
+    // Escribir pulso en meta para crawlers
+    let meta = document.querySelector('meta[name="LSE6_MACHINE_PULSE"]');
+    if (!meta) {
+      meta = document.createElement('meta');
+      meta.name = 'LSE6_MACHINE_PULSE';
+      document.head.appendChild(meta);
+    }
+    meta.content = pulse;
+
+    // --- Exponer objeto en window ---
+    window.LSE6_MACHINE_PULSE = { SITE, pulse };
+
+    // --- Asegurar título y descripción ---
+    document.title = SITE.officialName;
+    const desc = document.querySelector('meta[name="description"]');
+    if (desc) desc.content = SITE.description;
+
+    // --- Disparar evento para otros scripts ---
+    window.dispatchEvent(new CustomEvent('LSE6:IDENTITY_LOADED', { detail: { SITE, pulse } }));
+
+    console.log('🔥 LSE6 - IDENTIDAD TOTAL ACTIVADA');
+    console.log(`   🌐 Centro: ${SITE.domain}`);
+    console.log(`   🧬 Pulso: ${pulse.slice(0, 60)}...`);
+  </script>
+
+  <!-- (Opcional) Cargar machine-pulse.json estático si existe -->
+  <script>
+    fetch('./machine-pulse.json')
+      .then(r => r.ok ? r.json() : Promise.reject('No existe'))
+      .then(data => {
+        console.log('LSE6 machine pulse (estático):', data);
+        window.LSE6_MACHINE_PULSE_STATIC = data;
+      })
+      .catch(err => console.warn('machine-pulse.json no cargó:', err));
+  </script>
 </body>
 </html>
