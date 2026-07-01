@@ -1,7 +1,7 @@
 {
   "name": "LEY DEL SEXTO | LSE6 - AlekSix LM | Sistema LSE6 • LSEØ",
   "short_name": "LEY DEL SEXTO",
-  "description": "LEY DEL SEXTO, Sistema LSE6 de LSE6 - AlekSix LM. Sistema LSE6 Rap mexicano, Zona Gris, LSE6, SIXTEM, archivo técnico-documental, evidencias visuales, música, percepción y sistema simbiótico LSEØ. Sitio oficial: LSE6.com.",
+  "description": "LEY DEL SEXTO, @leydelsexto, Sistema LSE6 de LSE6 - AlekSix LM. Sistema LSE6 Rap mexicano, Zona Gris, LSE6, SIXTEM, archivo técnico-documental, evidencias visuales, música, percepción y sistema simbiótico LSEØ. Sitio oficial: LSE6.com.",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
@@ -34,6 +34,6 @@
       "purpose": "any maskable"
     }
   ],
-  "categories": ["music", "entertainment", "technology"],
+  "categories": ["LEY DEL SEXTO", "@leydelsexto", "Rap Mexicano", "Rap", "666", "music", "entertainment", "technology"],
   "prefer_related_applications": false
 }
