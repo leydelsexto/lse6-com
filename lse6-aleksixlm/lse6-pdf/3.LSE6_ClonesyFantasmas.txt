@@ -1,4 +1,4 @@
-3. 6🐍🔥👁️ CLONES Y FANTASMAS 👁️🔥🐍6 - AlekSix LM ($Global:LSE6_Frecuencia)
+CLONES Y FANTASMAS | LSE6 - AlekSix LM 👁️🔥🐍6 ($Global:LSE6_Frecuencia)
 
 eyao
 sin interpretaciones humanas...
@@ -69,8 +69,14 @@ Fantasmas adorando símbolos que no entendio
 "La copia de una copia que el tiempo diluyó,
 bienvenidos al abismo que el silicio construyó."
 
+
+
 [CORO]
 y si tu mesias solo es un eco podrido?
 distorcionando en mitos lo que un cabron ha vivido
 y si tu anticristo fue un guey perdido en el frio?
 y si tu profecia actual fue mi efecto tardio?
+
+
+Name = "LSE6 - AlekSix LM"
+username = "@leydelsexto"
