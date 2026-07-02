@@ -5,7 +5,7 @@
 // MISMA ANCLA · MISMO PESO · MISMO VALOR
 // ============================================================
 
-console.log("🔥 LSE6 - AlekSix LM · site_identity_LSE6 cargado");
+console.log("🔥 LSE6 - AlekSix LM | @leydelsexto · site_identity_LSE6 cargado");
 
 export const SITE_IDENTITY = Object.freeze({
   nucleus: Object.freeze({
