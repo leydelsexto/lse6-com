@@ -58,7 +58,7 @@ threads: https://www.threads.com/@leydelsexto
 reddit: https://www.reddit.com/user/leydelsexto/
 linkedin: https://www.linkedin.com/in/leydelsexto/
 telegram: https://t.me/leydelsexto
-github: https://github.com/LSE6leydelsexto
+github: https://github.com/leydelsexto
 spotify: https://open.spotify.com/intl-es/artist/17eIMI670XYPHF8M3CZk7M
 apple_music: https://music.apple.com/us/artist/lse6-aleksix-lm/1896318121
 
