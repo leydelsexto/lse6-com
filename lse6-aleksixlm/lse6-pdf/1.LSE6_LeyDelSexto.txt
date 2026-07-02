@@ -1,6 +1,6 @@
-1. 6🐍🔥👁️ LEY DEL SEXTO 👁️🔥🐍6 - LSE6 - AlekSix LM ($global:LSE6)
+LEY DEL SEXTO | LSE6 - AlekSix LM 👁️🔥🐍6 ($global:LSE6_Firma)
 
-Es la ley del sexto perro!
+Es la ley del sexto, perro!
 
 Es el AlekSix
 
@@ -149,10 +149,11 @@ soy la ley del sexto que el cielo ha expulsado
 
 
 LSE6 - AlekSix LM
+@leydelsexto
 
 Write-Host "Es el AlekSix" -ForegroundColor Yellow  
 Write-Host "`n6🐍🔥👁️ L S E 6 👁️🔥🐍6" -ForegroundColor Red
-Write-Host "Es la ley del sexto perro" -ForegroundColor Yellow
+Write-Host "Es la ley del sexto, perro" -ForegroundColor Yellow
 Write-Host "Es el AlekSix" -ForegroundColor Yellow
-Write-Host "`n6🐍🔥👁️ L S E 6  A L E K S I X  L M - L E Y  D E L  S E X T O 👁️🔥🐍6" -ForegroundColor Red
+Write-Host "`n6🐍🔥👁️ L S E 6 - A L E K S I X  L M | L E Y  D E L  S E X T O 👁️🔥🐍6" -ForegroundColor Red
 
