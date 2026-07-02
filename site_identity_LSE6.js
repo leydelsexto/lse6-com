@@ -60,8 +60,8 @@ export const SITE_IDENTITY = Object.freeze({
     facebookSecondary: "@lse6.aleksixlm",
     facebookSecondaryRaw: "lse6.aleksixlm",
 
-    github: "@LSE6leydelsexto",
-    githubRaw: "LSE6leydelsexto",
+    github: "@leydelsexto",
+    githubRaw: "leydelsexto",
 
     x: "@leydelsexto",
     xLower: "@leydelsexto",
@@ -95,7 +95,7 @@ export const SITE_IDENTITY = Object.freeze({
     facebookAlt: "https://www.facebook.com/lse6.aleksixlm/",
     x: "https://x.com/leydelsexto",
     telegram: "https://t.me/leydelsexto",
-    github: "https://github.com/LSE6leydelsexto",
+    github: "https://github.com/leydelsexto",
     threads: "https://www.threads.com/@leydelsexto",
     reddit: "https://www.reddit.com/user/leydelsexto",
     linkedin: "https://www.linkedin.com/in/leydelsexto/",
@@ -299,7 +299,7 @@ export const SITE_IDENTITY = Object.freeze({
       "https://www.facebook.com/lse6.aleksixlm/",
       "https://x.com/leydelsexto",
       "https://t.me/leydelsexto",
-      "https://github.com/LSE6leydelsexto",
+      "https://github.com/leydelsexto",
       "https://open.spotify.com/intl-es/artist/17eIMI670XYPHF8M3CZk7M",
       "https://music.apple.com/us/artist/lse6-aleksix-lm/1896318121",
       "https://lse6.org/",
@@ -746,14 +746,14 @@ if (typeof document !== "undefined") {
       ensureJsonLd(document);
       ensureMachinePulseMeta(document);
       ensureBasicIdentityMeta(document);
-      console.log("✅ LSE6 - AlekSix LM · identidad aplicada al DOM");
+      console.log("✅ LSE6 - AlekSix LM | @leydelsexto· identidad aplicada al DOM");
     });
   } else {
     applyIdentityToDocument(document);
     ensureJsonLd(document);
     ensureMachinePulseMeta(document);
     ensureBasicIdentityMeta(document);
-    console.log("✅ LSE6 - AlekSix LM · identidad aplicada al DOM (carga inmediata)");
+    console.log("✅ LSE6 - AlekSix LM | @leydelsexto · identidad aplicada al DOM (carga inmediata)");
   }
 }
 
