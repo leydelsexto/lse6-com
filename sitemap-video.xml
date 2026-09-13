@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
   <url>
+    <loc>https://lse6.com/</loc>
+    <video:video><video:thumbnail_loc>https://lse6.com/lse6-assets/lse6-og.png</video:thumbnail_loc><video:title>SIXTEM · video público 01</video:title><video:description>Video público integrado en el núcleo LSE6.com dentro de la superficie SIXTEM.</video:description><video:content_loc>https://lse6.com/lse6-assets/public-media/sixtem/sixtem-video-01.mp4</video:content_loc></video:video>
+    <video:video><video:thumbnail_loc>https://lse6.com/lse6-assets/lse6-og.png</video:thumbnail_loc><video:title>SIXTEM · video público 02</video:title><video:description>Segundo video público integrado en el núcleo LSE6.com dentro de la superficie SIXTEM.</video:description><video:content_loc>https://lse6.com/lse6-assets/public-media/sixtem/sixtem-video-02.mp4</video:content_loc></video:video>
+  </url>
+  <url>
     <loc>https://lse6.com/ley-del-sexto/</loc>
     <video:video><video:thumbnail_loc>https://lse6.com/lse6-assets/youtube-thumbnails/pdcQBdp-xhg.jpg</video:thumbnail_loc><video:title>LEY DEL SEXTO · video oficial</video:title><video:description>Video oficial de LEY DEL SEXTO por LSE6 - AlekSix LM. El origen visible de la Ley del Sexto.</video:description><video:player_loc>https://www.youtube.com/embed/pdcQBdp-xhg</video:player_loc><video:duration>208</video:duration><video:publication_date>2026-01-06T18:00:06-08:00</video:publication_date></video:video>
   </url>
