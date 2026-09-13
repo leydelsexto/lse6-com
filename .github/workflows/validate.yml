@@ -29,6 +29,8 @@ jobs:
           node-version: "22"
       - name: Validate complete sitemap inventory and IndexNow contract
         run: python -m unittest tools/test_submit_indexnow.py
+      - name: Validate LSE6.org bridge ownership and coverage
+        run: python tools/validate_lse6_org_bridge.py
       - name: Validate inline JavaScript
         run: python tools/validate_inline_js.py
       - name: Parse every sitemap XML
