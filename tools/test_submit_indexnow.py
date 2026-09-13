@@ -79,10 +79,10 @@ class IndexNowTests(unittest.TestCase):
         selected = INDEXNOW.select_changed_urls({"ley-del-sexto/index.html"}, active, set())
         self.assertEqual({"https://lse6.com/ley-del-sexto/"}, selected)
 
-    def test_global_crawl_change_submits_all_public_urls(self):
+    def test_direct_public_global_file_change_is_discoverable(self):
         active = INDEXNOW.current_urls()
         selected = INDEXNOW.select_changed_urls({"robots.txt"}, active, set())
-        self.assertEqual(active, selected)
+        self.assertIn("https://lse6.com/robots.txt", selected)
 
     def test_tooling_change_does_not_submit_public_urls(self):
         active = INDEXNOW.current_urls()
