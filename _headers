@@ -46,20 +46,24 @@
 *.webmanifest
   Cache-Control: max-age=3600, public, must-revalidate
 
+# Superficies públicas de máquina: descubribles, enlazables e indexables para agentes que respeten X-Robots-Tag.
 /site.webmanifest
-  X-Robots-Tag: noindex, nofollow
+  X-Robots-Tag: index, follow
 
 # Las miniaturas oficiales pueden cambiar en YouTube
 /lse6-assets/youtube-thumbnails/*
   Cache-Control: public, max-age=3600, must-revalidate
 
-# Archivos de máquina: rastreables y enlazables, pero no resultados de búsqueda.
 /*.json
-  X-Robots-Tag: noindex, follow
+  X-Robots-Tag: index, follow
 
 /lse6-*/index.json
-  X-Robots-Tag: noindex, follow
+  X-Robots-Tag: index, follow
 
+/mandela/index.json
+  X-Robots-Tag: index, follow
+
+# Código operativo/herramientas e instrucciones de mantenimiento NO forman parte del corpus público indexable.
 /tools/*
   X-Robots-Tag: noindex, nofollow
 
@@ -80,7 +84,7 @@ https://:project.pages.dev/*
 https://:version.:project.pages.dev/*
   X-Robots-Tag: noindex, nofollow
 
-# MANDELA: landing y documento maestro indexables; JSON sigue machine-only por regla global.
+# MANDELA: landing y documento maestro indexables.
 /mandela/
   X-Robots-Tag: index, follow, max-snippet:-1, max-image-preview:large
 
