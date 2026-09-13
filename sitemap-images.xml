@@ -2,9 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://lse6.com/</loc>
+    <image:image><image:loc>https://lse6.com/apple-touch-icon.png</image:loc></image:image>
+    <image:image><image:loc>https://lse6.com/favicon.png</image:loc></image:image>
+    <image:image><image:loc>https://lse6.com/icon-192.png</image:loc></image:image>
+    <image:image><image:loc>https://lse6.com/icon-512.png</image:loc></image:image>
     <image:image><image:loc>https://lse6.com/lse6-assets/LSE6_LOGO_TRANSPARENTE.png</image:loc></image:image>
     <image:image><image:loc>https://lse6.com/lse6-assets/LSE6_GREENTECH_TRANSPARENTE.png</image:loc></image:image>
     <image:image><image:loc>https://lse6.com/lse6-assets/BarrioBravoRecords.png</image:loc></image:image>
+    <image:image><image:loc>https://lse6.com/lse6-assets/lse6-og.png</image:loc></image:image>
+    <image:image><image:loc>https://lse6.com/lse6-assets/lse6-symbol.png</image:loc></image:image>
+    <image:image><image:loc>https://lse6.com/lse6-assets/lse6-miniaturas/clonesyfantasmas_card.jpg</image:loc></image:image>
+    <image:image><image:loc>https://lse6.com/lse6-assets/lse6-miniaturas/leydelsexto_card.jpg</image:loc></image:image>
+    <image:image><image:loc>https://lse6.com/lse6-assets/lse6-miniaturas/libreprisionero_card.png</image:loc></image:image>
+    <image:image><image:loc>https://lse6.com/lse6-assets/lse6-miniaturas/lse6_card.png</image:loc></image:image>
+    <image:image><image:loc>https://lse6.com/lse6-assets/lse6-miniaturas/nadameborra_card.png</image:loc></image:image>
+    <image:image><image:loc>https://lse6.com/lse6-assets/lse6-miniaturas/zonagris_card.jpg</image:loc></image:image>
     <image:image><image:loc>https://lse6.com/lse6-assets/public-media/glitch/glitch-01.jpeg</image:loc></image:image>
     <image:image><image:loc>https://lse6.com/lse6-assets/public-media/glitch/glitch-02.jpeg</image:loc></image:image>
     <image:image><image:loc>https://lse6.com/lse6-assets/public-media/glitch/glitch-03.jpeg</image:loc></image:image>
@@ -31,4 +43,6 @@
   <url><loc>https://lse6.com/libre-prisionero/</loc><image:image><image:loc>https://lse6.com/lse6-assets/youtube-thumbnails/M0N5CoOKyEY.jpg</image:loc></image:image></url>
   <url><loc>https://lse6.com/lse6/</loc><image:image><image:loc>https://lse6.com/lse6-assets/youtube-thumbnails/v40hHkTtdig.jpg</image:loc></image:image></url>
   <url><loc>https://lse6.com/error-404/</loc><image:image><image:loc>https://lse6.com/lse6-assets/youtube-thumbnails/Fafu9xC-npY.jpg</image:loc></image:image></url>
+  <url><loc>https://lse6.com/historia-los-mismos-mx/</loc><image:image><image:loc>https://lse6.com/lse6-assets/lse6-og.png</image:loc></image:image></url>
+  <url><loc>https://lse6.com/mandela/</loc><image:image><image:loc>https://lse6.com/lse6-assets/lse6-og.png</image:loc></image:image></url>
 </urlset>
