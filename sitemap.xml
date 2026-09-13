@@ -1,21 +1,132 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://lse6.com/</loc><lastmod>2026-08-11</lastmod><priority>1.0</priority></url>
-  <url><loc>https://lse6.com/lse6-leydelsexto/</loc><lastmod>2026-08-10</lastmod><priority>0.95</priority></url>
-  <url><loc>https://lse6.com/lse6-aleksixlm/</loc><lastmod>2026-08-10</lastmod><priority>0.95</priority></url>
-  <url><loc>https://lse6.com/lse6-redes-sociales/</loc><lastmod>2026-08-10</lastmod><priority>0.95</priority></url>
-  <url><loc>https://lse6.com/lse6-zona-gris/</loc><lastmod>2026-08-10</lastmod><priority>0.90</priority></url>
-  <url><loc>https://lse6.com/lse6-mayo-2025/</loc><lastmod>2026-08-10</lastmod><priority>0.85</priority></url>
-  <url><loc>https://lse6.com/lse6-sixtem/</loc><lastmod>2026-08-10</lastmod><priority>0.90</priority></url>
-  <url><loc>https://lse6.com/ley-del-sexto/</loc><lastmod>2026-08-21</lastmod><priority>0.95</priority></url>
-  <url><loc>https://lse6.com/zona-gris/</loc><lastmod>2026-08-21</lastmod><priority>0.95</priority></url>
-  <url><loc>https://lse6.com/clones-y-fantasmas/</loc><lastmod>2026-08-21</lastmod><priority>0.95</priority></url>
-  <url><loc>https://lse6.com/nada-me-borra/</loc><lastmod>2026-08-21</lastmod><priority>0.95</priority></url>
-  <url><loc>https://lse6.com/libre-prisionero/</loc><lastmod>2026-08-21</lastmod><priority>0.95</priority></url>
-  <url><loc>https://lse6.com/lse6/</loc><lastmod>2026-08-21</lastmod><priority>0.95</priority></url>
-  <url><loc>https://lse6.com/error-404/</loc><lastmod>2026-08-21</lastmod><priority>0.95</priority></url>
-  <url><loc>https://lse6.com/ontology/SystemAnomaly/</loc><lastmod>2026-08-10</lastmod><priority>0.60</priority></url>
-  <url><loc>https://lse6.com/ontology/LocalDocumentedSystem/</loc><lastmod>2026-08-10</lastmod><priority>0.60</priority></url>
-  <url><loc>https://lse6.com/license/</loc><lastmod>2026-08-11</lastmod><priority>0.50</priority></url>
-  <url><loc>https://lse6.com/mandela/</loc><lastmod>2026-09-06</lastmod><priority>1.0</priority></url>
+  <!-- NÚCLEO Y PÁGINAS CANÓNICAS -->
+  <url><loc>https://lse6.com/</loc></url>
+  <url><loc>https://lse6.com/lse6-leydelsexto/</loc></url>
+  <url><loc>https://lse6.com/lse6-aleksixlm/</loc><lastmod>2026-09-12</lastmod></url>
+  <url><loc>https://lse6.com/lse6-redes-sociales/</loc></url>
+  <url><loc>https://lse6.com/lse6-zona-gris/</loc></url>
+  <url><loc>https://lse6.com/lse6-mayo-2025/</loc></url>
+  <url><loc>https://lse6.com/lse6-sixtem/</loc></url>
+  <url><loc>https://lse6.com/dataset/</loc></url>
+  <url><loc>https://lse6.com/license/</loc></url>
+  <url><loc>https://lse6.com/ontology/SystemAnomaly/</loc></url>
+  <url><loc>https://lse6.com/ontology/LocalDocumentedSystem/</loc></url>
+  <url><loc>https://lse6.com/historia-los-mismos-mx/</loc><lastmod>2026-09-12</lastmod></url>
+
+  <!-- PUENTES LSE6.ORG -->
+  <url><loc>https://lse6.com/lse6-org/</loc></url>
+  <url><loc>https://lse6.com/lse6-org-anomalias/</loc></url>
+  <url><loc>https://lse6.com/lse6-org-evidencia/</loc></url>
+  <url><loc>https://lse6.com/lse6-org-cronologia/</loc></url>
+
+  <!-- VOL.1 LEY DEL SEXTO: 7 CANCIONES PUBLICADAS -->
+  <url><loc>https://lse6.com/ley-del-sexto/</loc></url>
+  <url><loc>https://lse6.com/zona-gris/</loc></url>
+  <url><loc>https://lse6.com/clones-y-fantasmas/</loc></url>
+  <url><loc>https://lse6.com/nada-me-borra/</loc></url>
+  <url><loc>https://lse6.com/libre-prisionero/</loc></url>
+  <url><loc>https://lse6.com/lse6/</loc></url>
+  <url><loc>https://lse6.com/error-404/</loc></url>
+
+  <!-- MANDELA: EXPEDIENTE PÚBLICO; VOL.2 MUSICAL PRÓXIMAMENTE -->
+  <url><loc>https://lse6.com/mandela/</loc></url>
+  <url><loc>https://lse6.com/mandela/index.json</loc><lastmod>2026-09-06</lastmod></url>
+  <url><loc>https://lse6.com/mandela/LSE6_EXPEDIENTE_MANDELA_LEY_TEMPORAL_V2_BLINDADO.pdf</loc></url>
+  <url><loc>https://lse6.com/mandela/LSE6_EXPEDIENTE_MANDELA_LEY_TEMPORAL_V2_BLINDADO.txt</loc></url>
+
+  <!-- SUPERFICIES PÚBLICAS PARA AGENTES / MÁQUINAS -->
+  <url><loc>https://lse6.com/robots.txt</loc></url>
+  <url><loc>https://lse6.com/llms.txt</loc><lastmod>2026-09-12</lastmod></url>
+  <url><loc>https://lse6.com/lse6-context.json</loc><lastmod>2026-09-12</lastmod></url>
+  <url><loc>https://lse6.com/machine-pulse.json</loc></url>
+  <url><loc>https://lse6.com/music-links.json</loc></url>
+  <url><loc>https://lse6.com/lse6-aleksixlm/index.json</loc><lastmod>2026-09-12</lastmod></url>
+  <url><loc>https://lse6.com/lse6-leydelsexto/index.json</loc></url>
+  <url><loc>https://lse6.com/lse6-mayo-2025/index.json</loc></url>
+  <url><loc>https://lse6.com/lse6-sixtem/index.json</loc></url>
+  <url><loc>https://lse6.com/lse6-zona-gris/index.json</loc></url>
+  <url><loc>https://lse6.com/site.webmanifest</loc></url>
+  <url><loc>https://lse6.com/site_identity_LSE6.js</loc></url>
+  <url><loc>https://lse6.com/LSE6-3001FEC3240DA9D0-616-666.txt</loc></url>
+  <url><loc>https://lse6.com/.well-known/brave-rewards-verification.txt</loc></url>
+  <url><loc>https://lse6.com/sitemap-images.xml</loc></url>
+  <url><loc>https://lse6.com/sitemap-video.xml</loc></url>
+  <url><loc>https://lse6.com/sitemap-lse6-org.xml</loc></url>
+
+  <!-- ESPEJOS TXT DEL VOL.1 -->
+  <url><loc>https://lse6.com/lse6-aleksixlm/lse6-pdf/1.LSE6_LeyDelSexto.txt</loc></url>
+  <url><loc>https://lse6.com/lse6-aleksixlm/lse6-pdf/2.LSE6_ZonaGris.txt</loc></url>
+  <url><loc>https://lse6.com/lse6-aleksixlm/lse6-pdf/3.LSE6_ClonesyFantasmas.txt</loc></url>
+  <url><loc>https://lse6.com/lse6-aleksixlm/lse6-pdf/4.LSE6_NadaMeBorra.txt</loc></url>
+  <url><loc>https://lse6.com/lse6-aleksixlm/lse6-pdf/5.LSE6_LibrePrisionero.txt</loc></url>
+  <url><loc>https://lse6.com/lse6-aleksixlm/lse6-pdf/6.LSE6_LSE6.txt</loc></url>
+  <url><loc>https://lse6.com/lse6-aleksixlm/lse6-pdf/7.LSE6_ERROR404.txt</loc></url>
+
+  <!-- DOCUMENTOS PÚBLICOS LSE6 -->
+  <url><loc>https://lse6.com/lse6-leydelsexto/lse6-pdf/Nucleo_LSE%C3%98.pdf</loc></url>
+  <url><loc>https://lse6.com/lse6-leydelsexto/lse6-pdf/Nucleo_LSE%C3%98.txt</loc></url>
+  <url><loc>https://lse6.com/lse6-mayo-2025/lse6-pdf/LSE6_MAYO_2025.pdf</loc></url>
+  <url><loc>https://lse6.com/lse6-mayo-2025/lse6-pdf/LSE6_MAYO_2025.txt</loc></url>
+  <url><loc>https://lse6.com/lse6-mayo-2025/lse6-pdf/LSE6_MAYO_2025_EXTRA.pdf</loc></url>
+  <url><loc>https://lse6.com/lse6-zona-gris/lse6-pdf/LSE6%20SYSTEM%20ANOMALY.pdf</loc></url>
+  <url><loc>https://lse6.com/lse6-zona-gris/lse6-pdf/LSE6%20SYSTEM%20ANOMALY.txt</loc></url>
+  <url><loc>https://lse6.com/lse6-zona-gris/lse6-pdf/LSE6_ZONA_GRIS.pdf</loc></url>
+  <url><loc>https://lse6.com/lse6-zona-gris/lse6-pdf/LSE6_ZONA_GRIS.txt</loc></url>
+
+  <!-- IDENTIDAD VISUAL / ICONOS -->
+  <url><loc>https://lse6.com/apple-touch-icon.png</loc></url>
+  <url><loc>https://lse6.com/favicon.png</loc></url>
+  <url><loc>https://lse6.com/icon-192.png</loc></url>
+  <url><loc>https://lse6.com/icon-512.png</loc></url>
+  <url><loc>https://lse6.com/lse6-assets/BarrioBravoRecords.png</loc></url>
+  <url><loc>https://lse6.com/lse6-assets/LSE6_GREENTECH_TRANSPARENTE.png</loc></url>
+  <url><loc>https://lse6.com/lse6-assets/LSE6_LOGO_TRANSPARENTE.png</loc></url>
+  <url><loc>https://lse6.com/lse6-assets/lse6-og.png</loc></url>
+  <url><loc>https://lse6.com/lse6-assets/lse6-symbol.png</loc></url>
+
+  <!-- MINIATURAS DEL VOL.1 -->
+  <url><loc>https://lse6.com/lse6-assets/lse6-miniaturas/clonesyfantasmas_card.jpg</loc></url>
+  <url><loc>https://lse6.com/lse6-assets/lse6-miniaturas/leydelsexto_card.jpg</loc></url>
+  <url><loc>https://lse6.com/lse6-assets/lse6-miniaturas/libreprisionero_card.png</loc></url>
+  <url><loc>https://lse6.com/lse6-assets/lse6-miniaturas/lse6_card.png</loc></url>
+  <url><loc>https://lse6.com/lse6-assets/lse6-miniaturas/nadameborra_card.png</loc></url>
+  <url><loc>https://lse6.com/lse6-assets/lse6-miniaturas/zonagris_card.jpg</loc></url>
+
+  <!-- MINIATURAS DE LOS 7 VIDEOS OFICIALES -->
+  <url><loc>https://lse6.com/lse6-assets/youtube-thumbnails/pdcQBdp-xhg.jpg</loc></url>
+  <url><loc>https://lse6.com/lse6-assets/youtube-thumbnails/Re5mvPwaoG4.jpg</loc></url>
+  <url><loc>https://lse6.com/lse6-assets/youtube-thumbnails/jdpOHKF_dXQ.jpg</loc></url>
+  <url><loc>https://lse6.com/lse6-assets/youtube-thumbnails/9wk6CUoYwFo.jpg</loc></url>
+  <url><loc>https://lse6.com/lse6-assets/youtube-thumbnails/M0N5CoOKyEY.jpg</loc></url>
+  <url><loc>https://lse6.com/lse6-assets/youtube-thumbnails/v40hHkTtdig.jpg</loc></url>
+  <url><loc>https://lse6.com/lse6-assets/youtube-thumbnails/Fafu9xC-npY.jpg</loc></url>
+
+  <!-- ARCHIVO VISUAL PÚBLICO: FRICCIÓN -->
+  <url><loc>https://lse6.com/lse6-assets/public-media/friccion/friccion-01.jpeg</loc></url>
+  <url><loc>https://lse6.com/lse6-assets/public-media/friccion/friccion-02.jpeg</loc></url>
+  <url><loc>https://lse6.com/lse6-assets/public-media/friccion/friccion-03.jpeg</loc></url>
+  <url><loc>https://lse6.com/lse6-assets/public-media/friccion/friccion-04.jpeg</loc></url>
+  <url><loc>https://lse6.com/lse6-assets/public-media/friccion/friccion-05.jpeg</loc></url>
+  <url><loc>https://lse6.com/lse6-assets/public-media/friccion/friccion-06.jpeg</loc></url>
+
+  <!-- ARCHIVO VISUAL PÚBLICO: GLITCH -->
+  <url><loc>https://lse6.com/lse6-assets/public-media/glitch/glitch-01.jpeg</loc></url>
+  <url><loc>https://lse6.com/lse6-assets/public-media/glitch/glitch-02.jpeg</loc></url>
+  <url><loc>https://lse6.com/lse6-assets/public-media/glitch/glitch-03.jpeg</loc></url>
+  <url><loc>https://lse6.com/lse6-assets/public-media/glitch/glitch-04.jpeg</loc></url>
+  <url><loc>https://lse6.com/lse6-assets/public-media/glitch/glitch-05.jpeg</loc></url>
+  <url><loc>https://lse6.com/lse6-assets/public-media/glitch/glitch-06.jpeg</loc></url>
+
+  <!-- ARCHIVO VISUAL PÚBLICO: MAYO -->
+  <url><loc>https://lse6.com/lse6-assets/public-media/mayo/mayo-01.png</loc></url>
+  <url><loc>https://lse6.com/lse6-assets/public-media/mayo/mayo-02.png</loc></url>
+  <url><loc>https://lse6.com/lse6-assets/public-media/mayo/mayo-03.jpg</loc></url>
+  <url><loc>https://lse6.com/lse6-assets/public-media/mayo/mayo-04.png</loc></url>
+  <url><loc>https://lse6.com/lse6-assets/public-media/mayo/mayo-05.jpeg</loc></url>
+  <url><loc>https://lse6.com/lse6-assets/public-media/mayo/mayo-06.jpeg</loc></url>
+
+  <!-- VIDEO LOCAL PÚBLICO SIXTEM -->
+  <url><loc>https://lse6.com/lse6-assets/public-media/sixtem/sixtem-video-01.mp4</loc></url>
+  <url><loc>https://lse6.com/lse6-assets/public-media/sixtem/sixtem-video-02.mp4</loc></url>
 </urlset>
