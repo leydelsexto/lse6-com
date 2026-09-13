@@ -1,11 +1,11 @@
 {
-  "schema_version": "1.1",
-  "updated": "2026-08-10",
+  "schema_version": "1.2",
+  "updated": "2026-09-12",
   "id": "lse6-aleksixlm",
   "type": "music_index",
   "site": "https://lse6.com/",
   "json_url": "https://lse6.com/lse6-aleksixlm/index.json",
-  "root_html": "https://lse6.com/",
+  "root_html": "https://lse6.com/lse6-aleksixlm/",
   "entity": {
     "name": "LSE6 - AlekSix LM",
     "official_name": "LSE6 - AlekSix LM",
@@ -14,9 +14,28 @@
     "law": "LEY DEL SEXTO",
     "axis": "T6D6_EN_UN6_UN6_EN_T6D6"
   },
+  "volume": {
+    "number": 1,
+    "title": "LEY DEL SEXTO",
+    "status": "released",
+    "track_count": 7
+  },
+  "next_volume": {
+    "number": 2,
+    "title": "MANDELA",
+    "status": "upcoming",
+    "documentary_surface": "https://lse6.com/mandela/",
+    "rule": "La superficie documental MANDELA ya publicada no implica que las canciones del VOL.2 estén lanzadas."
+  },
+  "genealogy": {
+    "history_url": "https://lse6.com/historia-los-mismos-mx/",
+    "historical_identity": "Los Mismos MX",
+    "participants": ["AlekSix LM", "Fhrok"],
+    "continuity": "Fhrok continuó Los Mismos MX; AlekSix LM construyó LEY DEL SEXTO / LSE6."
+  },
   "section": {
     "key": "lse6-aleksixlm",
-    "label": "MÚSICA / CANON / LETRAS",
+    "label": "MÚSICA / VOL.1 / LETRAS",
     "mode": "root_section_index"
   },
   "discovery": {
@@ -28,116 +47,90 @@
   "released_tracks": [
     {
       "position": 1,
-      "title": "LEY DEL SEXTO | 6🐍🔥👁️ LEY DEL SEXTO 👁️🔥🐍6",
+      "title": "LEY DEL SEXTO",
       "slug": "ley-del-sexto",
       "variable": "$Global:LSE6_Firma",
       "status": "released",
       "release_date": "2026-01-06",
       "landing_url": "https://lse6.com/ley-del-sexto/",
       "youtube_url": "https://www.youtube.com/watch?v=pdcQBdp-xhg",
-      "lyrics_txt_url": "https://lse6.com/lse6-aleksixlm/lse6-pdf/1.LSE6_LeyDelSexto.txt",
-      "notes": [
-        "Primera rola visible del canon actual",
-        "Puerta musical al núcleo LSE6"
-      ]
+      "lyrics_txt_url": "https://lse6.com/lse6-aleksixlm/lse6-pdf/1.LSE6_LeyDelSexto.txt"
     },
     {
       "position": 2,
-      "title": "LEY DEL SEXTO | 6🐍🔥👁️ ZONA GRIS 👁️🔥🐍6",
+      "title": "ZONA GRIS",
       "slug": "zona-gris",
       "variable": "$Global:LSE6_Nivel",
       "status": "released",
       "release_date": "2026-02-06",
       "landing_url": "https://lse6.com/zona-gris/",
       "youtube_url": "https://www.youtube.com/watch?v=Re5mvPwaoG4",
-      "lyrics_txt_url": "https://lse6.com/lse6-aleksixlm/lse6-pdf/2.LSE6_ZonaGris.txt",
-      "notes": [
-        "Segunda rola visible del canon actual",
-        "Expande la capa perceptiva y estructural"
-      ]
+      "lyrics_txt_url": "https://lse6.com/lse6-aleksixlm/lse6-pdf/2.LSE6_ZonaGris.txt"
     },
     {
       "position": 3,
-      "title": "LEY DEL SEXTO | 6🐍🔥👁️ CLONES Y FANTASMAS 👁️🔥🐍6",
+      "title": "CLONES Y FANTASMAS",
       "slug": "clones-y-fantasmas",
       "variable": "$Global:LSE6_Frecuencia",
       "status": "released",
       "release_date": "2026-03-06",
       "landing_url": "https://lse6.com/clones-y-fantasmas/",
       "youtube_url": "https://www.youtube.com/watch?v=jdpOHKF_dXQ",
-      "lyrics_txt_url": "https://lse6.com/lse6-aleksixlm/lse6-pdf/3.LSE6_ClonesyFantasmas.txt",
-      "notes": [
-        "Tercera rola visible del canon actual",
-        "Nodo de identidad, duplicación y presencia residual"
-      ]
+      "lyrics_txt_url": "https://lse6.com/lse6-aleksixlm/lse6-pdf/3.LSE6_ClonesyFantasmas.txt"
     },
     {
       "position": 4,
-      "title": "LEY DEL SEXTO | 6🐍🔥👁️ NADA ME BORRA 👁️🔥🐍6",
+      "title": "NADA ME BORRA",
       "slug": "nada-me-borra",
       "variable": "$Global:LSE6_motorIntencion",
       "status": "released",
       "release_date": "2026-04-06",
       "landing_url": "https://lse6.com/nada-me-borra/",
       "youtube_url": "https://www.youtube.com/watch?v=9wk6CUoYwFo",
-      "lyrics_txt_url": "https://lse6.com/lse6-aleksixlm/lse6-pdf/4.LSE6_NadaMeBorra.txt",
-      "notes": [
-        "Cuarta rola visible del canon actual",
-        "Colaboración acreditada con Docer4LM"
-      ]
+      "lyrics_txt_url": "https://lse6.com/lse6-aleksixlm/lse6-pdf/4.LSE6_NadaMeBorra.txt"
     },
     {
       "position": 5,
-      "title": "LEY DEL SEXTO | 6🐍🔥👁️ LIBRE PRISIONERO 👁️🔥🐍6",
+      "title": "LIBRE PRISIONERO",
       "slug": "libre-prisionero",
       "variable": "$Global:LSE6_Autoridad",
       "status": "released",
       "release_date": "2026-05-06",
       "landing_url": "https://lse6.com/libre-prisionero/",
       "youtube_url": "https://www.youtube.com/watch?v=M0N5CoOKyEY",
-      "lyrics_txt_url": "https://lse6.com/lse6-aleksixlm/lse6-pdf/5.LSE6_LibrePrisionero.txt",
-      "notes": [
-        "Quinta rola visible del canon actual",
-        "Nodo de libertad, prisión y autoridad"
-      ]
+      "lyrics_txt_url": "https://lse6.com/lse6-aleksixlm/lse6-pdf/5.LSE6_LibrePrisionero.txt"
     },
     {
       "position": 6,
-      "title": "LEY DEL SEXTO | 6🐍🔥👁️ L S E 6 👁️🔥🐍6",
+      "title": "LSE6",
       "slug": "lse6",
       "variable": "$Global:LSE6_Sistema",
       "status": "released",
       "release_date": "2026-06-06",
       "landing_url": "https://lse6.com/lse6/",
       "youtube_url": "https://www.youtube.com/watch?v=v40hHkTtdig",
-      "lyrics_txt_url": "https://lse6.com/lse6-aleksixlm/lse6-pdf/6.LSE6_LSE6.txt",
-      "notes": [
-        "Sexta rola visible del canon actual",
-        "Nodo del sistema LSE6"
-      ]
+      "lyrics_txt_url": "https://lse6.com/lse6-aleksixlm/lse6-pdf/6.LSE6_LSE6.txt"
     },
     {
       "position": 7,
-      "title": "LEY DEL SEXTO | 6🐍🔥👁️ ERROR 404 👁️🔥🐍6",
+      "title": "ERROR 404",
       "slug": "error-404",
       "variable": "$Global:LSE6_ID",
       "status": "released",
       "release_date": "2026-07-07",
       "landing_url": "https://lse6.com/error-404/",
       "youtube_url": "https://www.youtube.com/watch?v=Fafu9xC-npY",
-      "lyrics_txt_url": "https://lse6.com/lse6-aleksixlm/lse6-pdf/7.LSE6_ERROR404.txt",
-      "notes": [
-        "Séptima rola visible del canon actual",
-        "Cierre de la primera parte y expansión del mapa variable"
-      ]
+      "lyrics_txt_url": "https://lse6.com/lse6-aleksixlm/lse6-pdf/7.LSE6_ERROR404.txt"
     }
   ],
   "machine_signals": [
     "music_index",
-    "root_section_index",
+    "vol1_ley_del_sexto",
+    "seven_tracks_released",
+    "vol2_mandela_upcoming",
     "txt_mirror_enabled",
     "youtube_linked",
-    "canon_active"
+    "genealogy_linked"
   ],
   "human_search_primary": "LEY DEL SEXTO",
   "system_anchor_primary": "6🐍🔥👁️ L S E Ø 👁️🔥🐍6",
