@@ -95,3 +95,16 @@ https://:version.:project.pages.dev/*
 /mandela/LSE6_EXPEDIENTE_MANDELA_LEY_TEMPORAL_V2_BLINDADO.txt
   X-Robots-Tag: index, follow, max-snippet:-1
   Cache-Control: public, max-age=3600, must-revalidate
+
+/identidad.json
+  Content-Type: application/json; charset=utf-8
+  Link: <https://lse6.com/identidad/>; rel="describedby"
+
+/identidad/grafo.json
+  Content-Type: application/ld+json; charset=utf-8
+
+/.well-known/lse6-identity.json
+  Content-Type: application/json; charset=utf-8
+
+/identidad/lectura.txt
+  Content-Type: text/plain; charset=utf-8

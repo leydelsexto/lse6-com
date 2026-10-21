@@ -129,4 +129,11 @@
   <!-- VIDEO LOCAL PÚBLICO SIXTEM -->
   <url><loc>https://lse6.com/lse6-assets/public-media/sixtem/sixtem-video-01.mp4</loc></url>
   <url><loc>https://lse6.com/lse6-assets/public-media/sixtem/sixtem-video-02.mp4</loc></url>
+  <url><loc>https://lse6.com/identidad/</loc><lastmod>2026-10-20</lastmod></url>
+  <url><loc>https://lse6.com/identidad.json</loc><lastmod>2026-10-20</lastmod></url>
+  <url><loc>https://lse6.com/.well-known/lse6-identity.json</loc><lastmod>2026-10-20</lastmod></url>
+  <url><loc>https://lse6.com/identidad/grafo.json</loc><lastmod>2026-10-20</lastmod></url>
+  <url><loc>https://lse6.com/identidad/lectura.txt</loc><lastmod>2026-10-20</lastmod></url>
+  <url><loc>https://lse6.com/identidad/identidad.css</loc><lastmod>2026-10-20</lastmod></url>
+  <url><loc>https://lse6.com/sitemap-identidad.xml</loc><lastmod>2026-10-20</lastmod></url>
 </urlset>

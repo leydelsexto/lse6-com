@@ -1,0 +1,10 @@
+{
+  "format": "LSE6 identity discovery",
+  "formatVersion": "1.0",
+  "canonical": "https://lse6.com/identidad/",
+  "identity": "https://lse6.com/identidad.json",
+  "schemaOrg": "https://lse6.com/identidad/grafo.json",
+  "readable": "https://lse6.com/identidad/lectura.txt",
+  "updated": "2026-10-20",
+  "status": "Convención propia de descubrimiento, no estándar IANA."
+}

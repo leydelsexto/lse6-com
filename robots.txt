@@ -146,3 +146,5 @@ Allow: /
 # Es la ley del sexto, perro.
 # 6🐍🔥👁️ L S E Ø 👁️🔥🐍6
 # ================================================================
+
+Sitemap: https://lse6.com/sitemap-identidad.xml
