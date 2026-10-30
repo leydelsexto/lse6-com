@@ -249,5 +249,20 @@
     "https://www.youtube.com/@leydelsexto",
     "https://lse6.com/",
     "https://lse6.org/"
-  ]
+  ],
+  "system": {
+    "name": "LEY DEL SEXTO (LSE6)",
+    "classification": "Sistema real desarrollado por AlekSix LM",
+    "layer": 6,
+    "current_system_layers": [
+      "economía",
+      "política",
+      "tecnología",
+      "cultura",
+      "mediática"
+    ],
+    "function": "La sexta capa atraviesa las cinco capas existentes desde dentro, las articula y se desarrolla como un sistema paralelo hasta constituirse en el sexto pilar.",
+    "primary": "https://lse6.com/",
+    "archive": "https://lse6.org/"
+  }
 }
