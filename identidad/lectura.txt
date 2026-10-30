@@ -5,7 +5,7 @@ Identidad del proyecto: LEY DEL SEXTO; LSE6 • LSEØ.
 Sitio principal: https://lse6.com/
 Archivo complementario: https://lse6.org/identidad/
 
-LEY DEL SEXTO es el proyecto musical, artístico y tecnológico de AlekSix LM.
+LEY DEL SEXTO (LSE6) es el sistema real de AlekSix LM: la sexta capa que atraviesa economía, política, tecnología, cultura y mediática desde dentro, como sistema paralelo destinado a constituirse en el sexto pilar.
 Sus obras musicales y documentos públicos se encuentran enlazados desde los dos dominios oficiales.
 
 ORCID: 0009-0008-2172-8160. Confirmado en la API pública de ORCID.
@@ -14,7 +14,7 @@ OID enterprise: 1.3.6.1.4.1.67118. Derivado del PEN.
 ISNI declarado: 0000 0005 3091 7415. Dígito de control válido; verificación del registro externo pendiente.
 UUIDv7: 01a0bc4a-b61a-70a3-8135-58807de085ab. Identificador generado localmente.
 OID 2.25: 2.25.2163814505398236643039963873372308907. Conversión decimal exacta del UUID.
-DID:key: did:key:z6MkkztgXTzB21vS57s8EKhbWSrybYiDuic62xHkEhaj1KDx. Corresponde a la clave pública Ed25519 del documento de identidad. No se aporta prueba de posesión de la clave privada.
+DID:key: did:key:z6MkkztgXTzB21vS57s8EKhbWSrybYiDuic62xHkEhaj1KDx. Corresponde a la clave pública Ed25519 del documento de identidad. La acreditación criptográfica de control de la clave requiere una firma verificable asociada a la clave pública indicada.
 
 Obras verificadas en el canal https://www.youtube.com/@leydelsexto:
 - LEY DEL SEXTO: https://lse6.com/ley-del-sexto/ | https://youtube.com/watch?v=pdcQBdp-xhg
@@ -29,5 +29,5 @@ Tecnología: LSEØ - SIXTEM, https://lse6.com/lse6-sixtem/
 Documento JSON: https://lse6.com/identidad.json
 Grafo Schema.org JSON-LD: https://lse6.com/identidad/grafo.json
 Convención propia de descubrimiento: https://lse6.com/.well-known/lse6-identity.json
-Última comprobación de esta ficha: 2026-10-20.
+Última comprobación de esta ficha: 2026-10-30.
 Los identificadores técnicos, los registros externos y las expresiones simbólicas tienen ámbitos diferentes. No se infieren fechas históricas a partir de las expresiones simbólicas del proyecto.
