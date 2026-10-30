@@ -9,7 +9,7 @@
         "LSE6 - AlekSix LM"
       ],
       "url": "https://lse6.com/lse6-aleksixlm/",
-      "description": "Artista y autor de LEY DEL SEXTO, proyecto musical, artístico y tecnológico.",
+      "description": "Artista y autor de LEY DEL SEXTO, sistema de la sexta capa que integra música, tecnología, cultura y documentación.",
       "brand": {
         "@id": "https://lse6.com/#brand"
       },
@@ -38,7 +38,7 @@
         "LSE6 • LSEØ"
       ],
       "url": "https://lse6.com/lse6-leydelsexto/",
-      "description": "Identidad del proyecto musical, artístico y tecnológico de AlekSix LM.",
+      "description": "Identidad del sistema de la sexta capa que integra música, tecnología, cultura y documentación de AlekSix LM.",
       "identifier": [
         {
           "@type": "PropertyValue",
@@ -158,7 +158,7 @@
       "author": {
         "@id": "https://lse6.com/#person"
       },
-      "dateModified": "2026-10-20",
+      "dateModified": "2026-10-30",
       "breadcrumb": {
         "@id": "https://lse6.com/identidad/#breadcrumb"
       },
@@ -213,7 +213,7 @@
         }
       ],
       "inLanguage": "es-MX",
-      "dateModified": "2026-10-20"
+      "dateModified": "2026-10-30"
     },
     {
       "@type": "MusicRecording",
