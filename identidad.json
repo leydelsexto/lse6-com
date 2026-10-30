@@ -20,7 +20,7 @@
   },
   "graph": "https://lse6.com/identidad/grafo.json",
   "readable": "https://lse6.com/identidad/lectura.txt",
-  "updated": "2026-10-20",
+  "updated": "2026-10-30",
   "identifiers": [
     {
       "id": "https://lse6.com/identidad/#orcid",
@@ -31,7 +31,7 @@
       "url": "https://orcid.org/0009-0008-2172-8160",
       "verification": "verificado en API pública de ORCID",
       "source": "https://pub.orcid.org/v3.0/0009-0008-2172-8160/record",
-      "checked": "2026-10-20"
+      "checked": "2026-10-30"
     },
     {
       "id": "https://lse6.com/identidad/#isni",
@@ -42,7 +42,7 @@
       "url": "https://isni.org/isni/0000000530917415",
       "verification": "declarado por el titular; dígito de control válido; consulta del registro pendiente por restricción de acceso",
       "source": null,
-      "checked": "2026-10-20"
+      "checked": "2026-10-30"
     },
     {
       "id": "https://lse6.com/identidad/#pen",
@@ -53,7 +53,7 @@
       "url": "https://www.iana.org/assignments/enterprise-numbers/?q=67118",
       "verification": "verificado en registro de IANA",
       "source": "https://www.iana.org/assignments/enterprise-numbers.txt",
-      "checked": "2026-10-20"
+      "checked": "2026-10-30"
     },
     {
       "id": "https://lse6.com/identidad/#oid-iana",
@@ -64,7 +64,7 @@
       "url": null,
       "verification": "derivado del PEN 67118 confirmado por IANA",
       "source": "https://www.iana.org/assignments/enterprise-numbers/",
-      "checked": "2026-10-20"
+      "checked": "2026-10-30"
     },
     {
       "id": "https://lse6.com/identidad/#uuid",
@@ -75,7 +75,7 @@
       "url": null,
       "verification": "formato y versión 7 verificados; asignación declarada por el titular",
       "source": null,
-      "checked": "2026-10-20"
+      "checked": "2026-10-30"
     },
     {
       "id": "https://lse6.com/identidad/#oid-uuid",
@@ -86,7 +86,7 @@
       "url": null,
       "verification": "conversión decimal exacta del UUID verificada",
       "source": null,
-      "checked": "2026-10-20"
+      "checked": "2026-10-30"
     },
     {
       "id": "https://lse6.com/identidad/#did",
@@ -97,7 +97,7 @@
       "url": null,
       "verification": "clave pública y multicodec Ed25519 verificados; sin prueba de posesión de clave privada",
       "source": null,
-      "checked": "2026-10-20"
+      "checked": "2026-10-30"
     },
     {
       "id": "https://lse6.com/identidad/#youtube",
@@ -108,7 +108,7 @@
       "url": "https://www.youtube.com/@leydelsexto",
       "verification": "confirmado por ORCID y metadatos oEmbed de siete videos",
       "source": "https://orcid.org/0009-0008-2172-8160",
-      "checked": "2026-10-20"
+      "checked": "2026-10-30"
     },
     {
       "id": "https://lse6.com/identidad/#spotify",
@@ -119,7 +119,7 @@
       "url": "https://open.spotify.com/artist/17eIMI670XYPHF8M3CZk7M",
       "verification": "nombre LSE6 - AlekSix LM confirmado por la plataforma y enlazado desde el sitio oficial",
       "source": "https://lse6.com/",
-      "checked": "2026-10-20"
+      "checked": "2026-10-30"
     },
     {
       "id": "https://lse6.com/identidad/#apple-music",
@@ -130,7 +130,7 @@
       "url": "https://music.apple.com/us/artist/lse6-aleksix-lm/1896318121",
       "verification": "nombre LSE6 - AlekSix LM confirmado por la plataforma y enlazado desde el sitio oficial",
       "source": "https://lse6.com/",
-      "checked": "2026-10-20"
+      "checked": "2026-10-30"
     },
     {
       "id": "https://lse6.com/identidad/#id-legacy",
@@ -141,7 +141,7 @@
       "url": null,
       "verification": "identificador histórico presente en los sitios oficiales; no equivale a un registro internacional",
       "source": "https://lse6.com/",
-      "checked": "2026-10-20"
+      "checked": "2026-10-30"
     },
     {
       "id": "https://lse6.com/identidad/#legacy-sha256",
@@ -152,7 +152,7 @@
       "url": null,
       "verification": "valor previamente publicado; preimagen no establecida; no se presenta como hash del documento actual",
       "source": "https://lse6.com/",
-      "checked": "2026-10-20"
+      "checked": "2026-10-30"
     },
     {
       "id": "https://lse6.com/identidad/#legacy-sha1",
@@ -163,7 +163,7 @@
       "url": null,
       "verification": "valor previamente publicado; preimagen no establecida; no se presenta como hash del documento actual",
       "source": "https://lse6.com/",
-      "checked": "2026-10-20"
+      "checked": "2026-10-30"
     },
     {
       "id": "https://lse6.com/identidad/#legacy-md5",
@@ -174,7 +174,7 @@
       "url": null,
       "verification": "valor previamente publicado; preimagen no establecida; no se presenta como hash del documento actual",
       "source": "https://lse6.com/",
-      "checked": "2026-10-20"
+      "checked": "2026-10-30"
     },
     {
       "id": "https://lse6.com/identidad/#legacy-token",
@@ -185,7 +185,7 @@
       "url": null,
       "verification": "token presente en robots.txt; procedencia algorítmica no establecida",
       "source": "https://lse6.com/robots.txt",
-      "checked": "2026-10-20"
+      "checked": "2026-10-30"
     }
   ],
   "publicKey": {
