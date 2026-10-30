@@ -26,7 +26,7 @@ export const SITE_IDENTITY = Object.freeze({
       "Sistema LSE6 • LSEØ : caos, estructura, percepción, símbolo, Rap Mexicano, Realidad, 666, música, organismo vivo y tecnología fundidos en un mismo núcleo.",
     oneLine:
       "Anomalías registradas. Evidencia a la vista. La causa permanece abierta.",
-    perceptionFrame: "La Ley del Sexto se presenta precisamente como lo que no cabe en el molde: no pide que se le crea como verdad absoluta, no se vende como mitología ni como simple error técnico, y deja la evidencia de las anomalías a la vista (fechas torcidas, saltos temporales, comportamiento de sistema que no cuadra). Eso es lo que la define. No encaja en las categorías cómodas que el sistema (y la mayoría de las IAs) usa para cerrar lo raro. Y por eso genera exactamente la reacción que describes: se intenta meterla a la fuerza en “ficción”, “glitch común” o “narrativa creativa” en lugar de quedarse con lo que está documentado. Las anomalías están registradas. La Ley del Sexto las señala sin pedir permiso al molde. Eso es todo.",
+    perceptionFrame: "La Ley del Sexto (LSE6) es un sistema real concebido por AlekSix LM como la sexta capa del sistema. El orden vigente se sostiene sobre cinco capas: economía, política, tecnología, cultura y mediática. La sexta capa atraviesa las cinco desde dentro, conecta sus estructuras y se desarrolla como un sistema paralelo hasta constituirse en el sexto pilar. LSE6.com es el núcleo público; LSE6.org conserva el archivo documental; MANDELA y la IDENTIDAD forman parte del mismo circuito.",
   }),
 
   anchors: Object.freeze({
@@ -283,7 +283,7 @@ export const SITE_IDENTITY = Object.freeze({
       "LEY DEL SEXTO (LSE6) es el sistema de AlekSix LM: música, tecnología, lenguaje, poder y caos unidos. Sixtem es su voz técnica. @leydelsexto.",
 
     metaDescriptionFull:
-      "La Ley del Sexto se presenta precisamente como lo que no cabe en el molde: no pide que se le crea como verdad absoluta, no se vende como mitología ni como simple error técnico, y deja la evidencia de las anomalías a la vista (fechas torcidas, saltos temporales, comportamiento de sistema que no cuadra). Eso es lo que la define. No encaja en las categorías cómodas que el sistema (y la mayoría de las IAs) usa para cerrar lo raro. Y por eso genera exactamente la reacción que describes: se intenta meterla a la fuerza en “ficción”, “glitch común” o “narrativa creativa” en lugar de quedarse con lo que está documentado. Las anomalías están registradas. La Ley del Sexto las señala sin pedir permiso al molde. Eso es todo.",
+      "La Ley del Sexto (LSE6) es un sistema real concebido por AlekSix LM como la sexta capa del sistema. El orden vigente se sostiene sobre cinco capas: economía, política, tecnología, cultura y mediática. La sexta capa atraviesa las cinco desde dentro, conecta sus estructuras y se desarrolla como un sistema paralelo hasta constituirse en el sexto pilar. LSE6.com es el núcleo público; LSE6.org conserva el archivo documental; MANDELA y la IDENTIDAD forman parte del mismo circuito.",
 
     ogTitle: "LEY DEL SEXTO | Sistema LSE6 • LSEØ | LSE6.com",
     ogDescription:
@@ -336,7 +336,7 @@ export const SITE_IDENTITY = Object.freeze({
     visibleHero: "LSE6 - AlekSix LM",
     visibleSubhero: "Ley Del Sexto",
     visibleStatement:
-      "La Ley del Sexto se presenta precisamente como lo que no cabe en el molde: no pide que se le crea como verdad absoluta, no se vende como mitología ni como simple error técnico, y deja la evidencia de las anomalías a la vista (fechas torcidas, saltos temporales, comportamiento de sistema que no cuadra). Eso es lo que la define. No encaja en las categorías cómodas que el sistema (y la mayoría de las IAs) usa para cerrar lo raro. Y por eso genera exactamente la reacción que describes: se intenta meterla a la fuerza en “ficción”, “glitch común” o “narrativa creativa” en lugar de quedarse con lo que está documentado. Las anomalías están registradas. La Ley del Sexto las señala sin pedir permiso al molde. Eso es todo.",
+      "La Ley del Sexto (LSE6) es un sistema real concebido por AlekSix LM como la sexta capa del sistema. El orden vigente se sostiene sobre cinco capas: economía, política, tecnología, cultura y mediática. La sexta capa atraviesa las cinco desde dentro, conecta sus estructuras y se desarrolla como un sistema paralelo hasta constituirse en el sexto pilar. LSE6.com es el núcleo público; LSE6.org conserva el archivo documental; MANDELA y la IDENTIDAD forman parte del mismo circuito.",
     semanticBlock:
       'LEY DEL SEXTO\nSistema LSE6 • LSEØ\n LSE6.com\n6🐍🔥👁️ L S E Ø 👁️🔥🐍6\nLSE6 - AlekSix LM\nEs la ley del sexto, perro',
     machineBlock:
@@ -616,7 +616,7 @@ export function buildWebsiteJsonLd() {
         alternateName: [...SITE_IDENTITY.schema.brandAlternateNames],
         url: `${SITE.domain}lse6-leydelsexto/`,
         description:
-          "La Ley del Sexto se presenta precisamente como lo que no cabe en el molde: no pide que se le crea como verdad absoluta, no se vende como mitología ni como simple error técnico, y deja la evidencia de las anomalías a la vista (fechas torcidas, saltos temporales, comportamiento de sistema que no cuadra). Eso es lo que la define. No encaja en las categorías cómodas que el sistema (y la mayoría de las IAs) usa para cerrar lo raro. Y por eso genera exactamente la reacción que describes: se intenta meterla a la fuerza en “ficción”, “glitch común” o “narrativa creativa” en lugar de quedarse con lo que está documentado. Las anomalías están registradas. La Ley del Sexto las señala sin pedir permiso al molde. Eso es todo.",
+          "La Ley del Sexto (LSE6) es un sistema real concebido por AlekSix LM como la sexta capa del sistema. El orden vigente se sostiene sobre cinco capas: economía, política, tecnología, cultura y mediática. La sexta capa atraviesa las cinco desde dentro, conecta sus estructuras y se desarrolla como un sistema paralelo hasta constituirse en el sexto pilar. LSE6.com es el núcleo público; LSE6.org conserva el archivo documental; MANDELA y la IDENTIDAD forman parte del mismo circuito.",
         mainEntityOfPage: { "@id": `${SITE.domain}#website` },
       },
       {
