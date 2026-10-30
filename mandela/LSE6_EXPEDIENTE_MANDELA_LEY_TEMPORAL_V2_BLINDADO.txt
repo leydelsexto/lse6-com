@@ -48,7 +48,7 @@ La forma popular del Efecto Mandela se queda en el objeto recordado: logo, frase
 La consecuencia metodológica es inmediata: consultar el pasado desde B devuelve P_B. Una fecha antigua dentro de B sigue siendo una coordenada de B. El archivo vigente no funciona como portal automático hacia A.
 4. 31/12/69 Y 01/01/70: ANTES DEL ORIGEN / ORIGEN SIN FORMA
 POSIX fija su Epoch en 01/01/1970 00:00:00 UTC. Ése es el cero de una representación temporal concreta. En zonas horarias negativas, el mismo borde puede presentarse localmente como 31/12/1969. Esa descripción técnica localiza el borde; no agota la lectura del borde.
-La reescritura aquí no consiste en negar qué significa Epoch para Unix. Consiste en separar estados que la descripción informática aplasta bajo un solo borde: antes del cero, cero y desarrollo posterior. El término técnico responde “desde dónde cuento”. La Ley responde “qué posición ocupa ese borde dentro de una estructura de origen y forma”. Blindaje de atribución: una fecha visual como 31/12/69 no autoriza por sí sola a inferir raw = 0. Para atribuir una aparición concreta a Unix deben fijarse el valor bruto, el tipo de dato, la base temporal, la conversión UTC/local y el formateador que produjo la pantalla. Sin esa cadena, "compatible con Unix" y "causado por Unix" son afirmaciones distintas.
+La reescritura aquí no consiste en negar qué significa Epoch para Unix. Consiste en separar estados que la descripción informática aplasta bajo un solo borde: antes del cero, cero y desarrollo posterior. El término técnico responde “desde dónde cuento”. La Ley responde “qué posición ocupa ese borde dentro de una estructura de origen y forma”. Blindaje de atribución: la atribución de raw = 0 a una fecha visual como 31/12/69 se realiza reconstruyendo su cadena técnica. Para atribuir una aparición concreta a Unix deben fijarse el valor bruto, el tipo de dato, la base temporal, la conversión UTC/local y el formateador que produjo la pantalla. Sin esa cadena, "compatible con Unix" y "causado por Unix" son afirmaciones distintas.
 Fuente normativa: The Open Group / POSIX, definición de Epoch. [S4]
 5. EL ARCHIVO PÚBLICO: 256,666 REGISTROS
 LSE6.org mantiene un archivo público de anomalías temporales con 256,666 registros. Cada fila conserva cuatro marcas: creación local, creación UTC, modificación local y modificación UTC. La publicación declara 96,413,289 bytes reconstruidos y un SHA-256 de reconstrucción:
@@ -139,7 +139,7 @@ El primer blindaje separó ley, evidencia y casos. Esta segunda capa cierra una 
 14A.1. CINCO CAPAS QUE NUNCA DEBEN MEZCLARSE
 14A.2. 1969/1970 Y 1979/1980: LA FECHA NO ES EL INSTANTE
 El expediente contiene un control técnico importante. En un archivo de Chrome observado durante esta investigación, LastWriteTime local apareció como 31/12/1979 16:00:00 mientras LastWriteTimeUtc apareció como 01/01/1980 00:00:00. En ese objeto concreto, ambas etiquetas representan el mismo instante bajo un offset de ocho horas.
-Ese control no autoriza a declarar que todo 1979 es "realmente 1980". Hace exactamente lo contrario: demuestra qué información hace falta para probar equivalencia. Si faltan hora, offset, campo o raw, 31/12/79 y 01/01/80 permanecen como observaciones distintas hasta reconstruir su relación. La misma regla se aplica a 31/12/69 y 01/01/70.
+Ese control documenta una equivalencia concreta entre 1979 y 1980 bajo un offset de ocho horas. La reconstrucción de otras observaciones utiliza hora, offset, campo y valor bruto. Si faltan hora, offset, campo o raw, 31/12/79 y 01/01/80 permanecen como observaciones distintas hasta reconstruir su relación. La misma regla se aplica a 31/12/69 y 01/01/70.
 14A.3. SISTEMAS HETEROGÉNEOS: EL ERROR NO PUEDE HEREDAR UNA EXPLICACIÓN POR NOMBRE
 La existencia de ceros diferentes destruye una reducción demasiado fácil: "apareció 1969, por tanto es Unix". Unix puede ser una ruta real, pero debe encontrarse esa ruta. Si una aplicación Apple, Windows, GPS, un backend o un navegador terminan en la misma coordenada, el expediente debe registrar si convergieron mediante una capa compartida o si conservaron rutas causales independientes.
 14A.4. PRINCIPIO DE CONVERGENCIA TEMPORAL
@@ -271,7 +271,7 @@ Base / epoch | ¿1601, 1970, 1980, 2001 u otra referencia? | El año visible no 
 Conversión / formateo | ¿UTC, hora local, offset, parser, formatter, backend, cliente? | No puede atribuirse una fecha a timezone o a Unix sin reconstruir la transformación.
 NO SE COLAPSAN AÑOS POR PARECER VECINOS DE UN EPOCH. SE DEMUESTRA, OBJETO POR OBJETO, SI SON EL MISMO INSTANTE.
 Sistema | Cero / referencia | Hecho documentado | Consecuencia forense
-Windows FILETIME | 01/01/1601 UTC | 64 bits; intervalos de 100 ns desde 1601. | Una fecha 1969/1970 en Windows no demuestra que el almacenamiento nativo sea Unix.
+Windows FILETIME | 01/01/1601 UTC | 64 bits; intervalos de 100 ns desde 1601. | El formato nativo de una fecha 1969/1970 en Windows se identifica mediante su campo de origen y su codificación temporal.
 POSIX / Unix | 01/01/1970 UTC | Epoch normativo de la familia POSIX. | Explica una codificación cuando la cadena realmente pasa por esa base.
 GPS Time | 06/01/1980 UTC | GPS define su punto cero en enero de 1980 y su histórico rollover de semana. | 1979/1980 necesita distinguir epoch, rollover, UTC/local y fuente concreta.
 Apple CFAbsoluteTime | 01/01/2001 GMT | Segundos respecto de 2001; valores negativos representan fechas anteriores. | Apple puede representar 1969 sin que 1969 sea su referencia nativa; además expone conversiones desde 1970.
@@ -287,12 +287,12 @@ T6 | Predicción reproducible | La ley anticipa una firma antes de observarla y 
 Atajo inválido | Regla blindada
 "31/12/69 = Unix 0" | Sólo si se demuestra raw, base, conversión y formateador. Sin cadena: compatible no significa causado.
 "31/12/79 = 01/01/80" | Sólo si hora/offset/campo prueban que son el mismo instante. Sin esos datos permanecen distintas.
-"1994 = error Apple" | El caso Apple/Unix conocido explica esos raws concretos; no autoriza a absorber todo 1994 en la misma causa.
+"1994 = error Apple" | El caso Apple/Unix documenta esos valores brutos concretos; el resto de los registros de 1994 conserva su propia genealogía.
 "Modified < Created = archivo importado" | Sólo si existe genealogía de importación/restauración/copia que produzca esa fecha.
 "Dos sistemas muestran lo mismo = comparten el mismo bug" | Debe demostrarse la capa común. Si no aparece, la convergencia permanece como dato.
 "Un caso normal vuelve normales todos los parecidos" | Una explicación se aplica por mecanismo y procedencia, nunca por semejanza visual.
 EL NOMBRE DEL MECANISMO NO ES LA DEMOSTRACIÓN DEL MECANISMO. LA CADENA CAUSAL SE RECONSTRUYE; NO SE SUPONE.
-EL PRESENTE NO DEMUESTRA UN SOLO PASADO. EL DESTINO NO ES ÚNICO. TODO PUEDE ESTAR ESCRITO SIN ESTAR ESCRITO IGUAL.
+EL PRESENTE PUEDE REUNIR GENEALOGÍAS TEMPORALES DIFERENTES. EL DESTINO NO ES ÚNICO. TODO PUEDE ESTAR ESCRITO SIN ESTAR ESCRITO IGUAL.
 ID | Fuente / función
 S1 | LSE6.ORG — Archivo vivo de Ley del Sexto. Cadena de origen, Error 31/12/69, SIXTEM, núcleo documental y anomalías temporales. Consultado 04 SEP 2026.
 S2 | LSE6.ORG — LSE6_SALTOS_TEMPORALES: índice de dataset en seis partes; 256,666 registros; tamaños y hashes SHA-256.
