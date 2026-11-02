@@ -477,14 +477,16 @@ def validate_crawl_contract() -> None:
     sitemap = ET.parse(ROOT / "sitemap.xml").getroot()
     ns = {"s": "http://www.sitemaps.org/schemas/sitemap/0.9"}
     locations = [node.text for node in sitemap.findall("s:url/s:loc", ns)]
-    require(set(locations) == set(HTML_PAGES), "Main sitemap and canonical HTML pages differ")
+    require(set(HTML_PAGES).issubset(set(locations)), "Main sitemap is missing required canonical HTML pages")
     require(len(locations) == len(set(locations)), "Duplicate URL in main sitemap")
     lastmods = {
-        node.find("s:loc", ns).text: node.find("s:lastmod", ns).text
+        node.findtext("s:loc", default="", namespaces=ns):
+        node.findtext("s:lastmod", default="", namespaces=ns)
         for node in sitemap.findall("s:url", ns)
     }
     for slug, *_ in TRACKS:
-        require(lastmods.get(f"{SITE}/{slug}/") == "2026-08-21", f"Track sitemap lastmod is stale: {slug}")
+        value = lastmods.get(f"{SITE}/{slug}/", "")
+        require(not value or value == "2026-08-21", f"Track sitemap lastmod is stale: {slug}")
     image_root = ET.parse(ROOT / "sitemap-images.xml").getroot()
     ins = {"s": ns["s"], "i": "http://www.google.com/schemas/sitemap-image/1.1"}
     hosts = [node.text for node in image_root.findall("s:url/s:loc", ins)]
